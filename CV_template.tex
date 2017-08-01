@@ -1,0 +1,160 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% Copyright 2017 Masatoshi Katabuchi
+%
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+%
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+% ######## measure #########
+% # mm = 1mm = 2.85pt      #
+% # cm = 10mm = 28.5pt     #
+% # in = 25.4mm = 72.27pt  #
+% # pt = 0.35mm = 1pt      #
+% # em = width of [M]      #
+% # ex = height of [x]     #
+% # zw = width of [Kanji]  #
+% # zh = height of [Kanji] #
+% ########################## 
+
+\startmode[*mkii]
+  \enableregime[utf-8]
+  \setupcolors[state=start]
+\stopmode
+$if(mainlang)$
+\mainlanguage[$mainlang$]
+$endif$
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=0288d1]
+%\definecolor[sectioncolor][h=673ab7]
+\definecolor[rulecolor][h=0288d1]
+
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [$if(papersize)$$papersize$$else$letter$endif$][$if(papersize)$$papersize$$else$letter$endif$]
+\setuplayout    [width=middle, height=middle,
+                 backspace=0.8in, 
+                 cutspace=0in,
+                 topspace=0.5in, 
+                 bottomspace=0.8in,
+                 header=0.3in, 
+                 footer=0in,
+                 location=left]
+
+%\setupalign[flusuleft, hz, nothyphenated,]
+
+%\setuppagenumbering[location={header,center}]
+\setupheadertexts[$author$, CV, Page \pagenumber{} of \totalnumberofpages]
+
+% define font
+\definefontfamily[myfamily][serif][times new roman]
+\definefontfamily[myfamily][sans][Optima]
+\definefontfamily[myfamily][mono][Cousine]
+\definefontfamily[myfamily][math][Cousine]
+
+\setupbodyfont[11pt, myfamily]
+%\setupbodyfont[helvetica]
+\setupbodyfont[sans]
+%\setupbodyfont[mono]
+
+%\setupwhitespace[medium]
+\nowhitespace
+\setupinterlinespace[line=11pt]
+%\setupinterlinespace[small]
+
+\setuptolerance[horizontal,stretch] % for right margin
+
+\setupblackrules[width=12mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfb]
+\setuphead[section]      [style=\tfc\bf, color=titlegrey, align=middle]
+%\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+%                          before={\blank[small]\leavevmode\blackrule\hspace},
+%                          after={\blank[small]}]
+%\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+%                         before={\blank[small]\leavevmode\blackrule\hspace}]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\blank[line]\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+%\showgrid
+
+$if(number-sections)$
+$else$
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+$endif$
+
+
+\definedescription
+  [description]
+  [headstyle=normal, 
+   style=normal,
+   afterhead{\blank[force,none]},
+   location=hanging, width=3in, distance=-2.4in, margin=0in]
+
+%\setupitemize[autointro, packed,
+%              after={\blank[force,10*line]},
+%              afterhead={\blank[force,10*line]}]    % prevent orphan list intro
+\setupitemize[autointro, packed,
+              afterhead={\blank[force,10*line]}]    % prevent orphan list intro
+%\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+
+%\setupthinrules[width=15em] % width of horizontal rules
+\setupthinrules[width=15em,
+	after={\blank{force,10*line}}] % width of horizontal rules
+
+%\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+$if(toc)$
+\setupcombinedlist[content][list={$placelist$}]
+
+$endif$
+$for(header-includes)$
+$header-includes$
+$endfor$
+\starttext
+$if(title)$
+\startalignment[center] 
+\setupcolor[textcolor=titlegrey]
+  \blank[small]
+  {\tfb $title$}
+$if(author)$
+\startalignment[center] 
+  \blank[3*medium]
+  {\tfa $for(author)$$author$$sep$\crlf $endfor$}$endif$
+$if(date)$
+  \blank[2*medium]
+  {\tfa $date$}
+$endif$
+  \blank[3*medium]
+\stopalignment
+$endif$
+$for(include-before)$
+$include-before$
+$endfor$
+$if(toc)$
+\placecontent
+$endif$
+
+$body$
+
+$for(include-after)$
+$include-after$
+$endfor$
