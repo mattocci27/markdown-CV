@@ -1,10 +1,11 @@
 # Masatoshi Katabuchi
 
--------------------------------------------------------    -----------------------------------------------------------
-Visiting Scholar                                                                              Phone: +1 (352) 273-0130
-Department of Agricultural and Biological Engineering,     E-mail: [mattocci27@gmail.com](mailto:mattocci27@gmail.com)
-University of Florida, Gainesville, Florida 32611 USA        Web: [mattocci27.github.io](https://mattocci27.github.io)
--------------------------------------------------------    -----------------------------------------------------------
+----------------------------------------         ------------------------------------------------------------
+Postdoctoral Research Associate                                                    Phone: +1 (361) 228-3026
+Kellogg Biological Station                       E-mail: [mattocci27@gmail.com](mailto:mattocci27@gmail.com)
+Michigan State University                          Web: [mattocci27.github.io](https://mattocci27.github.io)
+Hickory Corners, MI 49060 USA                          
+-----------------------------------------        ------------------------------------------------------------
 
 ## Research Interest
 
@@ -112,6 +113,10 @@ April 2010-March 2012
 
 1. J.L.D. Osnas, **Katabuchi M.**, K. Kitajima, S.J. Wright, P.B. Reich, S.A. Van Bael, N.J.B. Kraft, M.J. Samaniego, S.W. Pacala, and J.W. Lichstein. Divergent drivers of leaf trait variation within species, among species, and among functional groups. *PNAS* (in revision)
 
+1. Sreekar, Rachakonda; **Katabuchi, Masatoshi**; Nakamura, Akihiro; Corlett, Richard; Slik, Ferry; Fletcher, Christine; He, Fangliang; Weiblen, George; Shen, Guochun; Xu, Han; Sun, I-Fang; Cao, Ke; Ma, Keping; Chang, Li-Wan; Jiang, Mingxi; Gunatilleke, I.A.U. Nimal; Ong, Perry; Yap, Sandra; Gunatilleke, C.V. Savitri; Novotny, Vojtech; Brockelman, Warren; Xiang, Wusheng; Mi, Xiangcheng; Li, Xiankun; Wang, Xi-Hua; Qiao, Xiujuan; Li, Yide; Harrison, Rhett; Koh, Lian Pin. Spatial scale dictates the relationship between beta diversity and latitude. *Ecology* (in review)
+
+1. Sreekar, Rachakonda; **Katabuchi, Masatoshi**; Nakamura, Akihiro; Corlett, Richard; Tan, Sylvester; Condit, Richard; Harrison, Rhett; Koh, Lian Pin. Sensitivity of beta diversity metrics to sampling intensity. *Ecology* (in review)
+
 ## Book
 1. Hikosaka K., Sasaki T., Kamiyama C., **Katabuchi M.**, Oikawa S., Shimazaki M., Kimura H. and Nakashizuka T. (2016), Trait-Based Approaches for Understanding Species Niche, Coexistence, and Functional Diversity in Subalpine Moorlands.  Structure and Function of Mountain Ecosystems in Japan.
 
@@ -169,7 +174,7 @@ Reviewer for journals (~ 12 per year):
 
 - Plant Ecology
 
-- PLOS ONE 
+- PLOS ONE
 
 - Scientific Reports
 \stopcolumns
@@ -219,5 +224,3 @@ Reviewer for journals (~ 12 per year):
 
 ## Languages
 Japanese (native), English (fluent), Malay (basic), Chinese-Mandarin (basic)
-
-
