@@ -1,11 +1,14 @@
-# Masatoshi Katabuchi
+---
+author: Masatoshi Katabuchi
+title: Postdoctoral Research Associate
+department: Kellogg Biological Station
+address: Michigan State University, Hickory Corners, MI 49060 USA
+web: mattocci27.github.io
+mail: mattocci27@gmail.com
+phone: +1 (361) 228-3026
+---
 
-----------------------------------------         ------------------------------------------------------------
-Postdoctoral Research Associate                                                    Phone: +1 (361) 228-3026
-Kellogg Biological Station                       E-mail: [mattocci27@gmail.com](mailto:mattocci27@gmail.com)
-Michigan State University                          Web: [mattocci27.github.io](https://mattocci27.github.io)
-Hickory Corners, MI 49060 USA                          
------------------------------------------        ------------------------------------------------------------
+---
 
 ## Research Interest
 
