@@ -5,7 +5,7 @@ The Markdown Resume
 ```bash
 git clone https://github.com/mattocci27/markdown_CV
 cd markdown_CV
-vim resume.md   # insert your own resume info
+vim CV.md   # insert your own resume info
 make
 ```
 
@@ -13,7 +13,7 @@ make
 ```bash
 git clone https://github.com/mattocci27/markdown_CV
 cd markdown_CV
-vim resume.md   # insert your own resume info
+vim CV.md   # insert your own resume info
 docker-compose up -d
 ```
 
