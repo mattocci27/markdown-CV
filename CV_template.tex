@@ -32,7 +32,6 @@ $endif$
 %\definecolor[sectioncolor][h=673ab7]
 \definecolor[rulecolor][h=0288d1]
 
-
 % Enable hyperlinks
 \setupinteraction[state=start, color=sectioncolor]
 
@@ -52,6 +51,10 @@ $endif$
 \setupheadertexts[$author$, CV, Page \pagenumber{} of \totalnumberofpages]
 
 % define font
+
+\usesymbols[fontawesome]
+\setupsymbolset[fontawesome]
+
 \definefontfamily[myfamily][serif][times new roman]
 \definefontfamily[myfamily][sans][Optima]
 \definefontfamily[myfamily][mono][Cousine]
@@ -61,7 +64,6 @@ $endif$
 %\setupbodyfont[helvetica]
 \setupbodyfont[sans]
 %\setupbodyfont[mono]
-
 %\setupwhitespace[medium]
 \nowhitespace
 \setupinterlinespace[line=11pt]
@@ -129,29 +131,39 @@ $endif$
 $for(header-includes)$
 $header-includes$
 $endfor$
+
 \starttext
-$if(title)$
-\startalignment[center] 
-\setupcolor[textcolor=titlegrey]
-  \blank[small]
-  {\tfb $title$}
-$if(author)$
-\startalignment[center] 
-  \blank[3*medium]
-  {\tfa $for(author)$$author$$sep$\crlf $endfor$}$endif$
 $if(date)$
   \blank[2*medium]
   {\tfa $date$}
 $endif$
   \blank[3*medium]
-\stopalignment
-$endif$
+
 $for(include-before)$
 $include-before$
 $endfor$
+
 $if(toc)$
 \placecontent
 $endif$
+
+\startalignment[center] 
+$if(author)$
+  \blank[3*medium]
+  {\tfc\bf \color[titlegrey] {$author$}}\break$endif$
+$if(title)$
+  $title$\break
+$endif$
+$if(department)$
+  $department$\break
+$endif$
+$if(address)$
+  $address$\break
+$endif$
+$if(phone)$\symbol[phone] $phone$$endif$
+$if(mail)$\symbol[envelope-o] \goto{$mail$}[url(mailto:$mail$)]$endif$
+$if(web)$\symbol[globe] \goto{$web$}[url(https://$web$)]$endif$
+\stopalignment
 
 $body$
 
