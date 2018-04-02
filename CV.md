@@ -68,6 +68,9 @@ April 2010-March 2012
 :   Grant-in-Aid for Scientific Research for JSPS Research Fellowship (no. 22-7035) 1,400,000 JPY ($14,000)
 
 ## Publications
+
+1. J.L.D. Osnas, **Katabuchi M.**, K. Kitajima, S.J. Wright, P.B. Reich, S.A. Van Bael, N.J.B. Kraft, M.J. Samaniego, S.W. Pacala, and J.W. Lichstein. Divergent drivers of leaf trait variation within species, among species, and among functional groups. *PNAS* (accepted)
+
 1. **Katabuchi, M.**, S. J. Wright, N. G. Swenson, K. J. Feeley, R. Condit, S. P. Hubbell, and S. J. Davies. Contrasting outcomes of species- and community-level analyses of the temporal consistency of functional composition. *Ecology* [doi:10.1002/ecy.1952](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1952/full)
 
 1. Li, Y., Shipley, B., Price, J. N., de L. Dantas, V., Tamme, R., Westoby, M., Siefert, A., Schamp, B. S., Spasojevic, M. J., Jung, V., Laughlin, D. C., Richardson, S. J., Le Bagousse-Pinguet, Y., Schöb, C., Gazol, A., Prentice, H. C., Gross, N., Overton, J., Cianciaruso, M. V., Louault, F., Kamiyama, C., Nakashizuka, T., Hikosaka, K., Sasaki, T., **M. Katabuchi**, Frenette Dussault, C., Gaucherand, S., Chen, N., Vandewalle, M. and Batalha, M. A. 2017. Habitat filtering determines the functional niche occupancy of plant communities worldwide. *Journal of Ecology* 00:1-9 [doi:10.1111/1365-2745.12802](https://doi.org/10.1111/1365-2745.12802)
@@ -110,15 +113,13 @@ April 2010-March 2012
 
 
 ## Manuscript in review/revision/preprint
-1. Jhnson J. D, Needham J., Chonggan X., …**Katabuchi M.**, …McMahon M. S. *Nature Ecology and Evolution* (in revision)
+1. Johnson J. D, Needham J., Chonggan X., …**Katabuchi M.**, …McMahon M. S. *Nature Ecology and Evolution* (in revision)
 
-1. **Katabuchi M,** Kitajima K, S.J. Wright, S.A. Van Bael, J.L.D. Osnas and J.W. Lichstein. Decomposing leaf mass into photosynthetic and structural components explains divergent patterns of trait variation within and among plant species. *New Phytologist* (in review) bioRxiv 116855; doi: https://doi.org/10.1101/116855
+1. **Katabuchi M,** Kitajima K, S.J. Wright, S.A. Van Bael, J.L.D. Osnas and J.W. Lichstein. Decomposing leaf mass into photosynthetic and structural components explains divergent patterns of trait variation within and among plant species. *bioRxiv* 116855; doi: https://doi.org/10.1101/116855
 
-1. J.L.D. Osnas, **Katabuchi M.**, K. Kitajima, S.J. Wright, P.B. Reich, S.A. Van Bael, N.J.B. Kraft, M.J. Samaniego, S.W. Pacala, and J.W. Lichstein. Divergent drivers of leaf trait variation within species, among species, and among functional groups. *PNAS* (in revision)
 
-1. Sreekar, Rachakonda; **Katabuchi, Masatoshi**; Nakamura, Akihiro; Corlett, Richard; Slik, Ferry; Fletcher, Christine; He, Fangliang; Weiblen, George; Shen, Guochun; Xu, Han; Sun, I-Fang; Cao, Ke; Ma, Keping; Chang, Li-Wan; Jiang, Mingxi; Gunatilleke, I.A.U. Nimal; Ong, Perry; Yap, Sandra; Gunatilleke, C.V. Savitri; Novotny, Vojtech; Brockelman, Warren; Xiang, Wusheng; Mi, Xiangcheng; Li, Xiankun; Wang, Xi-Hua; Qiao, Xiujuan; Li, Yide; Harrison, Rhett; Koh, Lian Pin. Spatial scale dictates the relationship between beta diversity and latitude. *Ecology* (in review)
+1. Sreekar, Rachakonda; **Katabuchi, Masatoshi**; Nakamura, Akihiro; Corlett, Richard; Slik, Ferry; Fletcher, Christine; He, Fangliang; Weiblen, George; Shen, Guochun; Xu, Han; Sun, I-Fang; Cao, Ke; Ma, Keping; Chang, Li-Wan; Jiang, Mingxi; Gunatilleke, I.A.U. Nimal; Ong, Perry; Yap, Sandra; Gunatilleke, C.V. Savitri; Novotny, Vojtech; Brockelman, Warren; Xiang, Wusheng; Mi, Xiangcheng; Li, Xiankun; Wang, Xi-Hua; Qiao, Xiujuan; Li, Yide; Harrison, Rhett; Koh, Lian Pin. Spatial scale dictates the relationship between beta diversity and latitude. *Ecology letters* (in review)
 
-1. Sreekar, Rachakonda; **Katabuchi, Masatoshi**; Nakamura, Akihiro; Corlett, Richard; Tan, Sylvester; Condit, Richard; Harrison, Rhett; Koh, Lian Pin. Sensitivity of beta diversity metrics to sampling intensity. *Ecology* (in review)
 
 ## Book
 1. Hikosaka K., Sasaki T., Kamiyama C., **Katabuchi M.**, Oikawa S., Shimazaki M., Kimura H. and Nakashizuka T. (2016), Trait-Based Approaches for Understanding Species Niche, Coexistence, and Functional Diversity in Subalpine Moorlands.  Structure and Function of Mountain Ecosystems in Japan.
