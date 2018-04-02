@@ -4,7 +4,7 @@ pdf: Katabuchi_CV.pdf
 Katabuchi_CV.pdf: CV.md
 	pandoc --standalone --template CV_template.tex \
 	--from markdown --to context \
-	--latex-engine=xelatex \
+	--pdf-engine=xelatex \
 	-V papersize=letter \
 	-o Katabuchi_CV.tex CV.md; \
 	context Katabuchi_CV.tex
