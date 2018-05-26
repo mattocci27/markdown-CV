@@ -69,9 +69,9 @@ April 2010-March 2012
 
 ## Publications
 
-1. J.L.D. Osnas, **Katabuchi M.**, K. Kitajima, S.J. Wright, P.B. Reich, S.A. Van Bael, N.J.B. Kraft, M.J. Samaniego, S.W. Pacala, and J.W. Lichstein. Divergent drivers of leaf trait variation within species, among species, and among functional groups. *PNAS* (accepted)
+1. J.L.D. Osnas, **Katabuchi M.**, K. Kitajima, S.J. Wright, P.B. Reich, S.A. Van Bael, N.J.B. Kraft, M.J. Samaniego, S.W. Pacala, and J.W. Lichstein. Divergent drivers of leaf trait variation within species, among species, and among functional groups. 2018. *PNAS* [https://doi.org/10.1073/pnas.1803989115](https://doi.org/10.1073/pnas.1803989115)
 
-1. **Katabuchi, M.**, S. J. Wright, N. G. Swenson, K. J. Feeley, R. Condit, S. P. Hubbell, and S. J. Davies. Contrasting outcomes of species- and community-level analyses of the temporal consistency of functional composition. *Ecology* [doi:10.1002/ecy.1952](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1952/full)
+1. **Katabuchi, M.**, S. J. Wright, N. G. Swenson, K. J. Feeley, R. Condit, S. P. Hubbell, and S. J. Davies. Contrasting outcomes of species- and community-level analyses of the temporal consistency of functional composition. 2017. *Ecology* [doi:10.1002/ecy.1952](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1952/full)
 
 1. Li, Y., Shipley, B., Price, J. N., de L. Dantas, V., Tamme, R., Westoby, M., Siefert, A., Schamp, B. S., Spasojevic, M. J., Jung, V., Laughlin, D. C., Richardson, S. J., Le Bagousse-Pinguet, Y., Schöb, C., Gazol, A., Prentice, H. C., Gross, N., Overton, J., Cianciaruso, M. V., Louault, F., Kamiyama, C., Nakashizuka, T., Hikosaka, K., Sasaki, T., **M. Katabuchi**, Frenette Dussault, C., Gaucherand, S., Chen, N., Vandewalle, M. and Batalha, M. A. 2017. Habitat filtering determines the functional niche occupancy of plant communities worldwide. *Journal of Ecology* 00:1-9 [doi:10.1111/1365-2745.12802](https://doi.org/10.1111/1365-2745.12802)
 
@@ -118,7 +118,7 @@ April 2010-March 2012
 1. **Katabuchi M,** Kitajima K, S.J. Wright, S.A. Van Bael, J.L.D. Osnas and J.W. Lichstein. Decomposing leaf mass into photosynthetic and structural components explains divergent patterns of trait variation within and among plant species. *bioRxiv* 116855; doi: https://doi.org/10.1101/116855
 
 
-1. Sreekar, Rachakonda; **Katabuchi, Masatoshi**; Nakamura, Akihiro; Corlett, Richard; Slik, Ferry; Fletcher, Christine; He, Fangliang; Weiblen, George; Shen, Guochun; Xu, Han; Sun, I-Fang; Cao, Ke; Ma, Keping; Chang, Li-Wan; Jiang, Mingxi; Gunatilleke, I.A.U. Nimal; Ong, Perry; Yap, Sandra; Gunatilleke, C.V. Savitri; Novotny, Vojtech; Brockelman, Warren; Xiang, Wusheng; Mi, Xiangcheng; Li, Xiankun; Wang, Xi-Hua; Qiao, Xiujuan; Li, Yide; Harrison, Rhett; Koh, Lian Pin. Spatial scale dictates the relationship between beta diversity and latitude. *Ecology letters* (in review)
+1. Sreekar, Rachakonda; **Katabuchi, Masatoshi**; Nakamura, Akihiro; Corlett, Richard; Slik, Ferry; Fletcher, Christine; He, Fangliang; Weiblen, George; Shen, Guochun; Xu, Han; Sun, I-Fang; Cao, Ke; Ma, Keping; Chang, Li-Wan; Jiang, Mingxi; Gunatilleke, I.A.U. Nimal; Ong, Perry; Yap, Sandra; Gunatilleke, C.V. Savitri; Novotny, Vojtech; Brockelman, Warren; Xiang, Wusheng; Mi, Xiangcheng; Li, Xiankun; Wang, Xi-Hua; Qiao, Xiujuan; Li, Yide; Harrison, Rhett; Koh, Lian Pin. Spatial scale dictates the relationship between beta diversity and latitude. *Proceedings of the Royal Society B* (in review)
 
 
 ## Book
@@ -190,6 +190,18 @@ Reviewer for journals (~ 12 per year):
 2009
 : Dean’s award for excellence, Graduate School of Life Sciences (Master’s Program), Tohoku University
 
+## Invited Seminars
+
+2018
+: Species coexistence and functional traits. Graduate School of Life Sciences, Tohoku University, Japan
+
+2018
+: Species coexistence and functional traits. Graduate School of Environment and Information Sciences, Yokoyama National University, Japan
+
+2016
+: Decomposing leaf mass into photosynthetic and structural components explains divergent patterns of trait variation within and among plant species. Department of Ecology and Evolutionary Biology, Princeton University, NJ
+
+
 ## International Meetings
 **Invited**
 
@@ -228,3 +240,58 @@ Reviewer for journals (~ 12 per year):
 
 ## Languages
 Japanese (native), English (fluent), Malay (basic), Chinese-Mandarin (basic)
+
+## References for Masatoshi Katabuchi
+
+Kaoru Kitajima
+
+Kyoto University
+
+Graduate School of Agriculture,
+
+Kitashirakawa Oiwake-cho, Kyoto, 606-8520 Japan
+
+<kaoruk@kais.kyoto-u.ac.jp>
+
++81(0)75-753-6360
+
+$~$
+
+Jeremy Lichstein
+
+University of Florida
+
+Department of Biology
+
+Gainesville, FL 32611 USA
+
+<jlichstein@ufl.edu>
+
++1 (352) 392-1540
+
+$~$
+
+Christopher Klausmeier
+
+W. K. Kellogg Biological Station
+
+Michigan State University
+
+Hickory Corners, MI 49060 USA
+
+<klausme1@msu.edu>
+
++1 (269) 671-4330
+
+
+$~$
+
+Tohru Nakashizuka
+
+Research Institute for Humanity and Nature
+
+457-4, Motoyama, Kamigamo, Kita-ku, Kyoto, 603-8047 Japan
+
+<toron@chikyu.ac.jp>
+
++81(0)75-707-2341

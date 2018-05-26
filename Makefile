@@ -17,11 +17,11 @@ CV.html: CV_template.css CV.md
 
 docx: CV.docx
 CV.docx: CV.md
-	pandoc -s -S CV.md -o CV.docx
+	pandoc -s CV.md -o CV.docx
 
 rtf: CV.rtf
 CV.rtf: CV.md
-	pandoc -s -S CV.md -o CV.rtf
+	pandoc -s CV.md -o CV.rtf
 
 clean:
 	rm -f CV.html
