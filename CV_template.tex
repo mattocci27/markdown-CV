@@ -53,7 +53,7 @@ $endif$
 % define font
 
 \usesymbols[fontawesome]
-\setupsymbolset[fontawesome]
+%\setupsymbolset[fontawesome]
 
 \definefontfamily[myfamily][serif][times new roman]
 \definefontfamily[myfamily][sans][Optima]
@@ -160,10 +160,10 @@ $endif$
 $if(address)$
   $address$\break
 $endif$
-$if(phone)$\symbol[phone] $phone$$endif$
-$if(mail)$\symbol[envelope-open-text] \goto{$mail$}[url(mailto:$mail$)]$endif$
-$if(web)$\symbol[globe] \goto{$web$}[url(https://$web$)]$endif$
-$if(discord)$\symbol[discord] $discord$$endif$
+$if(phone)$\symbol[fontawesome-solid][phone] $phone$$endif$
+$if(mail)$\symbol[fontawesome-solid][envelope-open] \goto{$mail$}[url(mailto:$mail$)]$endif$
+$if(web)$\symbol[fontawesome-solid][globe-americas] \goto{$web$}[url(https://$web$)]$endif$
+$if(discord)$\symbol[fontawesome-brands][discord] $discord$$endif$
 \stopalignment
 
 $body$
