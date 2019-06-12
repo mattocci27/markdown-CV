@@ -1,11 +1,11 @@
 ---
 author: Masatoshi Katabuchi
-title: Postdoctoral Research Associate
-department: Kellogg Biological Station
-address: Michigan State University, Hickory Corners, MI 49060 USA
+title: Associate Professor
+department: Xishuangbanna Tropical Botanical Garden
+address: Chinese Academy of Sciences, Menglun, Mengla, Yunnan, 666303 China 
 web: mattocci27.github.io
-mail: mattocci27@gmail.com
-phone: +1 (269) 671-2237
+mail: katabuchi@xtbg.ac.cn
+discord: mattocci#0084
 ---
 
 ---
@@ -19,17 +19,21 @@ Community ecology, Tropical forest ecology, Functional traits, Global change bio
 **Tohoku University, Japan**, Supervisor: Tohru Nakashizuka
 
 2012
-:   **Ph.D.**, Graduate School of Life Sciences "Community assembly and dynamics in tropical rainforests on the basis of functional traits".
+:   **Ph.D. (Life Sciences)**, Graduate School of Life Sciences "Community assembly and dynamics in tropical rainforests on the basis of functional traits".
 
 2009
-:   **M.S.**, Graduate School of Life Sciences, "Reproductive ecology of a common dioecious fig and its pollinating wasp in a tropical secondary forest in Sarawak, Malaysia"
+:   **M.S. (Life Sciences)**, Graduate School of Life Sciences, "Reproductive ecology of a common dioecious fig and its pollinating wasp in a tropical secondary forest in Sarawak, Malaysia"
 
 2007
-:   **B.S.**, Department of Biology
+:   **B.S. (Biology)**, Department of Biology
 
 ## Academic & Research Positions
 
-August 2017-
+June 2019-
+: []()
+: **Associate Professor**, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China
+
+August 2017-February 2019
 : []()
 : **Postdoctoral Research Associate**, Michigan State University, USA
 
@@ -57,7 +61,7 @@ April 2010-March 2012
 : []()
 : **JSPS Research Fellow DC2**, Tohoku University, Japan
 
-## Founding
+## Funding
 2014:
 :   JSPS Postdoctoral Fellowship for Research Abroad (no. 25-504) 10,512,000 JPY ($105,000)
 
@@ -69,11 +73,16 @@ April 2010-March 2012
 
 ## Publications
 
-1. J.L.D. Osnas, **Katabuchi M.**, K. Kitajima, S.J. Wright, P.B. Reich, S.A. Van Bael, N.J.B. Kraft, M.J. Samaniego, S.W. Pacala, and J.W. Lichstein. Divergent drivers of leaf trait variation within species, among species, and among functional groups. 2018. *PNAS* [https://doi.org/10.1073/pnas.1803989115](https://doi.org/10.1073/pnas.1803989115)
+1. Sreekar, R., **M. Katabuchi**, A. Nakamura, R. T. Corlett, J. W. F. Slik, C. Fletcher, F. He, G. D. Weiblen, G. Shen, H. Xu, I.-F. Sun, K. Cao, K. Ma, L.-W. Chang, M. Cao, M. Jiang, I. A. U. N. Gunatilleke, P. Ong, S. Yap, C. V. S. Gunatilleke, V. Novotny, W. Y. Brockelman, W. Xiang, X. Mi, X. Li, X. Wang, X. Qiao, Y. Li, S. Tan, R. Condit, R. D. Harrison, and L. P. Koh. 2018. Spatial scale changes the relationship between beta diversity, species richness and latitude. *Royal Society Open Science* 5, 181168 [doi: 10.1098/rsos.181168](http://rsos.royalsocietypublishing.org/content/5/9/181168)
 
-1. **Katabuchi, M.**, S. J. Wright, N. G. Swenson, K. J. Feeley, R. Condit, S. P. Hubbell, and S. J. Davies. Contrasting outcomes of species- and community-level analyses of the temporal consistency of functional composition. 2017. *Ecology* [doi:10.1002/ecy.1952](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1952/full)
+1. Johnson, D. J., J. Needham, C. Xu, E. C. Massoud, S. J. Davies, K. J. Anderson-Teixeira, S. Bunyavejchewin, J. Q. Chambers, C.-H. Chang-Yang, J.-M. Chiang, G. B. Chuyong, R. Condit, S. Cordell, C. Fletcher, C. P. Giardina, T. W. Giambelluca, N. Gunatilleke, S. Gunatilleke, C.-F. Hsieh, S. Hubbell, F. Inman-Narahari, A. R. Kassim, **M. Katabuchi,**, D. Kenfack, C. M. Litton, S. Lum, M. Mohamad, M. Nasardin, P. S. Ong, R. Ostertag, L. Sack, N. G. Swenson, I.-F. Sun, S. Tan, D. W. Thomas, J. Thompson, M. N. Umaña, M. Uriarte, R. Valencia, S. Yap, J. Zimmerman, N. G. McDowell, and S. M. Mcmahon. 2018. Climate sensitive size-dependent survival in tropical trees. *Nature Ecology & Evolution* 2, 1436–1442 [doi:10.1038/s41559-
+018-0626-z](https://www.nature.com/articles/s41559-018-0626-z)
 
-1. Li, Y., Shipley, B., Price, J. N., de L. Dantas, V., Tamme, R., Westoby, M., Siefert, A., Schamp, B. S., Spasojevic, M. J., Jung, V., Laughlin, D. C., Richardson, S. J., Le Bagousse-Pinguet, Y., Schöb, C., Gazol, A., Prentice, H. C., Gross, N., Overton, J., Cianciaruso, M. V., Louault, F., Kamiyama, C., Nakashizuka, T., Hikosaka, K., Sasaki, T., **M. Katabuchi**, Frenette Dussault, C., Gaucherand, S., Chen, N., Vandewalle, M. and Batalha, M. A. 2017. Habitat filtering determines the functional niche occupancy of plant communities worldwide. *Journal of Ecology* 00:1-9 [doi:10.1111/1365-2745.12802](https://doi.org/10.1111/1365-2745.12802)
+1. Osnas, J.L.D., **M. Katabuchi.**, K. Kitajima, S.J. Wright, P.B. Reich, S.A. Van Bael, N.J.B. Kraft, M.J. Samaniego, S.W. Pacala, and J.W. Lichstein. Divergent drivers of leaf trait variation within species, among species, and among functional groups. 2018. *PNAS* 115, 5480-5485 [https://doi.org/10.1073/pnas.1803989115](https://doi.org/10.1073/pnas.1803989115)
+
+1. Li, Y., Shipley, B., Price, J. N., de L. Dantas, V., Tamme, R., Westoby, M., Siefert, A., Schamp, B. S., Spasojevic, M. J., Jung, V., Laughlin, D. C., Richardson, S. J., Le Bagousse-Pinguet, Y., Schöb, C., Gazol, A., Prentice, H. C., Gross, N., Overton, J., Cianciaruso, M. V., Louault, F., Kamiyama, C., Nakashizuka, T., Hikosaka, K., Sasaki, T., **M. Katabuchi**, Frenette Dussault, C., Gaucherand, S., Chen, N., Vandewalle, M. and Batalha, M. A. 2018. Habitat filtering determines the functional niche occupancy of plant communities worldwide. *Journal of Ecology* 106:1001–1009 [doi:10.1111/1365-2745.12802](https://doi.org/10.1111/1365-2745.12802)
+
+1. **Katabuchi, M.**, S. J. Wright, N. G. Swenson, K. J. Feeley, R. Condit, S. P. Hubbell, and S. J. Davies. Contrasting outcomes of species- and community-level analyses of the temporal consistency of functional composition. 2017. *Ecology* 98: 2273-2280. [doi:10.1002/ecy.1952](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1952/full)
 
 1. Nakamura, A., C. J. Burwell, L. A. Ashton, M. J. Laidlaw, **M. Katabuchi**, and R. L. Kitching. 2016. Identifying indicator species of elevation: Comparing the utility of woody plants, ants and moths for long‐term monitoring. *Austral Ecology* 41:179–188.
 
@@ -113,12 +122,8 @@ April 2010-March 2012
 
 
 ## Manuscript in review/revision/preprint
-1. Johnson J. D, Needham J., Chonggan X., …**Katabuchi M.**, …McMahon M. S. *Nature Ecology and Evolution* (in revision)
 
 1. **Katabuchi M,** Kitajima K, S.J. Wright, S.A. Van Bael, J.L.D. Osnas and J.W. Lichstein. Decomposing leaf mass into photosynthetic and structural components explains divergent patterns of trait variation within and among plant species. *bioRxiv* 116855; doi: https://doi.org/10.1101/116855
-
-
-1. Sreekar, Rachakonda; **Katabuchi, Masatoshi**; Nakamura, Akihiro; Corlett, Richard; Slik, Ferry; Fletcher, Christine; He, Fangliang; Weiblen, George; Shen, Guochun; Xu, Han; Sun, I-Fang; Cao, Ke; Ma, Keping; Chang, Li-Wan; Jiang, Mingxi; Gunatilleke, I.A.U. Nimal; Ong, Perry; Yap, Sandra; Gunatilleke, C.V. Savitri; Novotny, Vojtech; Brockelman, Warren; Xiang, Wusheng; Mi, Xiangcheng; Li, Xiankun; Wang, Xi-Hua; Qiao, Xiujuan; Li, Yide; Harrison, Rhett; Koh, Lian Pin. Spatial scale dictates the relationship between beta diversity and latitude. *Proceedings of the Royal Society B* (in review)
 
 
 ## Book
@@ -150,13 +155,15 @@ April 2010-March 2012
 
 Reviewer for journals (~ 12 per year):
 \startcolumns[n=2]
+- AoB Plants
+
 - Biotropica
 
 - BMC Evolutionary Biology
 
 - Ecological Research
 
-- Ecology letters
+- Ecology Letters
 
 - Ecosphere
 
@@ -176,6 +183,8 @@ Reviewer for journals (~ 12 per year):
 
 - Journal of Vegetation Science
 
+- Oecologia
+
 - Plant Ecology
 
 - PLOS ONE
@@ -193,6 +202,9 @@ Reviewer for journals (~ 12 per year):
 ## Invited Seminars
 
 2018
+: A quantitive model for divergent drivers of leaf trait variation within and among plant species, Xishuangbanna Tropical Botanical Garden, China
+
+2018
 : Species coexistence and functional traits. Graduate School of Life Sciences, Tohoku University, Japan
 
 2018
@@ -201,12 +213,18 @@ Reviewer for journals (~ 12 per year):
 2016
 : Decomposing leaf mass into photosynthetic and structural components explains divergent patterns of trait variation within and among plant species. Department of Ecology and Evolutionary Biology, Princeton University, NJ
 
+2013
+: Additive partitioning of functional diversity in plant communities, Xishuangbanna Tropical Botanical Garden, China
+
 
 ## International Meetings
 **Invited**
 
-2013
-: **Masatoshi Katabuchi** “Additive partitioning of functional diversity in plant communities”, XTBG seminar, XTBG, China
+2015
+: **Masatoshi Katabuchi**, "Future perspective for functional trait research", Organized session on "Achievements and outstanding questions for trait-based forest ecology" , 62nd ESJ Annual meeting, Kagoshima, Japan
+
+2014
+: **Masatoshi Katabuchi (Organizer)**, “Seedling dynamics and its consequence to community assembly processes in a tropical forest”, Symposium on "Integrating the structure and dynamics of tree communities to uncover the mechanisms underlying species coexistence", 61st ESJ Annual meeting, Hiroshima, Japan
 
 2011
 : **Masatoshi Katabuchi** and Hiroko Kurokawa "Community assembly and demography of tropical tree species", Workshop on "Life history regulation of forest trees: towards cross-biome analysis", Sapporo, Japan
@@ -242,6 +260,18 @@ Reviewer for journals (~ 12 per year):
 Japanese (native), English (fluent), Malay (basic), Chinese-Mandarin (basic)
 
 ## References for Masatoshi Katabuchi
+
+Tohru Nakashizuka
+
+Research Institute for Humanity and Nature
+
+457-4, Motoyama, Kamigamo, Kita-ku, Kyoto, 603-8047 Japan
+
+<toron@chikyu.ac.jp>
+
++81(0)75-707-2341
+
+$~$
 
 Kaoru Kitajima
 
@@ -281,17 +311,4 @@ Hickory Corners, MI 49060 USA
 
 <klausme1@msu.edu>
 
-+1 (269) 671-4330
 
-
-$~$
-
-Tohru Nakashizuka
-
-Research Institute for Humanity and Nature
-
-457-4, Motoyama, Kamigamo, Kita-ku, Kyoto, 603-8047 Japan
-
-<toron@chikyu.ac.jp>
-
-+81(0)75-707-2341

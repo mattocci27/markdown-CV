@@ -46,12 +46,10 @@ $endif$
                  location=left]
 
 %\setupalign[flusuleft, hz, nothyphenated,]
-
 %\setuppagenumbering[location={header,center}]
 \setupheadertexts[$author$, CV, Page \pagenumber{} of \totalnumberofpages]
 
 % define font
-
 \usesymbols[fontawesome]
 \setupsymbolset[fontawesome]
 
@@ -60,6 +58,13 @@ $endif$
 \definefontfamily[myfamily][mono][Cousine]
 \definefontfamily[myfamily][math][Cousine]
 
+% for chinese 
+%\usetypescriptfile[type-myfonts]
+%\usetypescript[myfonts]
+%\setupbodyfont[myfonts,sans,11pt]
+%\setupbodyfontenvironment [default] [em=italic] % slanted is default emphasize in ConTeXt
+%\setscript[hanzi]
+
 \setupbodyfont[11pt, myfamily]
 %\setupbodyfont[helvetica]
 \setupbodyfont[sans]
@@ -67,8 +72,6 @@ $endif$
 %\setupwhitespace[medium]
 \nowhitespace
 \setupinterlinespace[line=11pt]
-%\setupinterlinespace[small]
-
 \setuptolerance[horizontal,stretch] % for right margin
 
 \setupblackrules[width=12mm, color=rulecolor]
@@ -90,7 +93,6 @@ $if(number-sections)$
 $else$
 \setuphead[chapter, section, subsection, subsubsection][number=no]
 $endif$
-
 
 \definedescription
   [description]
@@ -161,9 +163,12 @@ $if(address)$
   $address$\break
 $endif$
 $if(phone)$\symbol[phone] $phone$$endif$
-$if(mail)$\symbol[envelope-open-text] \goto{$mail$}[url(mailto:$mail$)]$endif$
-$if(web)$\symbol[globe] \goto{$web$}[url(https://$web$)]$endif$
-$if(discord)$\symbol[discord] $discord$$endif$
+$if(mail)$\symbol[envelope-o] \goto{$mail$}[url(mailto:$mail$)]$endif$
+$if(web)$\symbol[globe] \goto{$web$}[url(https://$web$)]\break$endif$
+$if(sex)$ Sex: $sex$,  $endif$
+$if(dob)$ Date of Birth: $dob$,  $endif$
+$if(mar)$ Martial status: $mar$  $endif$
+
 \stopalignment
 
 $body$
