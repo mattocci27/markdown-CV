@@ -62,6 +62,11 @@ April 2010-March 2012
 : **JSPS Research Fellow DC2**, Tohoku University, Japan
 
 ## Funding
+
+2020:
+:   Chinese Academy of Sciences President's International Fellowship Initiative
+(2020FYB0003) 300,000 RMB
+
 2014:
 :   JSPS Postdoctoral Fellowship for Research Abroad (no. 25-504) 10,512,000 JPY ($105,000)
 
@@ -72,6 +77,8 @@ April 2010-March 2012
 :   Grant-in-Aid for Scientific Research for JSPS Research Fellowship (no. 22-7035) 1,400,000 JPY ($14,000)
 
 ## Publications
+
+1. Swenson, N. G., C. M., Hulshof, **M. Katabuchi**, and B. J. Enquist (accepted) LONG-TERM SHIFTS IN THE FUNCTIONAL COMPOSITIOIN AND DIVERISTY OF A TROPICAL DRY FOREST: A 30-YEAS SUTDY, *Ecological Monographs*
 
 1. Sreekar, R., **M. Katabuchi**, A. Nakamura, R. T. Corlett, J. W. F. Slik, C. Fletcher, F. He, G. D. Weiblen, G. Shen, H. Xu, I.-F. Sun, K. Cao, K. Ma, L.-W. Chang, M. Cao, M. Jiang, I. A. U. N. Gunatilleke, P. Ong, S. Yap, C. V. S. Gunatilleke, V. Novotny, W. Y. Brockelman, W. Xiang, X. Mi, X. Li, X. Wang, X. Qiao, Y. Li, S. Tan, R. Condit, R. D. Harrison, and L. P. Koh. 2018. Spatial scale changes the relationship between beta diversity, species richness and latitude. *Royal Society Open Science* 5, 181168 [doi: 10.1098/rsos.181168](http://rsos.royalsocietypublishing.org/content/5/9/181168)
 
@@ -137,6 +144,9 @@ April 2010-March 2012
 : **mglmn**: Model Averaging fro Multivariate GLM with Null Models, R CRAN package
 
 ## Teaching Experience
+2019
+: How do we measure and study biological diveristy?, Advanced Field course in Ecology and Conservation, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China
+
 2013
 : Experimental Design and Data Analysis, ATBC Asia-Pacific chapter, Banda Aceh, Indonesia
 
