@@ -1,6 +1,0 @@
-return {
- ["enginebanner"]="This is LuaTeX, Version 1.0.4 (TeX Live 2017)",
- ["formatbanner"]="2017.05.15 21:48",
- ["sourcefile"]="context.mkiv",
- ["sourcehash"]="9aaeb6fada2824adfca1e969e6c7a9cf",
-}

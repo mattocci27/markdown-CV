@@ -14,7 +14,9 @@ make
 git clone https://github.com/mattocci27/markdown_CV
 cd markdown_CV
 vim CV.md   # insert your own resume info
-docker-compose up -d
+sudo docker-compose up -d
+
+sudo docker-compose up --build
 ```
 
 ### Requirements
@@ -31,3 +33,5 @@ sudo apt install pandoc context
 ```bash
 sudo dnf install pandoc texlive-collection-context
 ```
+
+sudo docker run -it --rm -v $(pwd):/home/app ubuntu /bin/bash

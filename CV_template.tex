@@ -56,11 +56,13 @@ $endif$
 %\setupsymbolset[fontawesome]
 
 \definefontfamily[myfamily][serif][times new roman]
-\definefontfamily[myfamily][sans][Optima]
+%\definefontfamily[myfamily][sans][Optima]
+\definefontfamily[myfamily][sans][Raleway]
+%\definefontfamily[myfamily][sans][Belleza]
 \definefontfamily[myfamily][mono][Cousine]
 \definefontfamily[myfamily][math][Cousine]
 
-\setupbodyfont[11pt, myfamily]
+\setupbodyfont[12pt, myfamily]
 %\setupbodyfont[helvetica]
 \setupbodyfont[sans]
 %\setupbodyfont[mono]
@@ -102,10 +104,11 @@ $endif$
 %\setupitemize[autointro, packed,
 %              after={\blank[force,10*line]},
 %              afterhead={\blank[force,10*line]}]    % prevent orphan list intro
-\setupitemize[autointro, packed,
+\setupitemize[autointro, packed, 
               afterhead={\blank[force,10*line]}]    % prevent orphan list intro
 %\setupitemize[autointro, packed]    % prevent orphan list intro
 \setupitemize[indentnext=no]
+\setupitemize[reverse]
 
 \setupfloat[figure][default={here,nonumber}]
 \setupfloat[table][default={here,nonumber}]
