@@ -1,7 +1,9 @@
 STYLE=CV_template
-all: md html pdf docx rtf
+AUTHOR="Katabuchi, M."
+LASTNAME=Katabuchi
+all: ref_citeproc_edit.md $(LASTNAME)_CV.html $(LASTNAME)_CV.pdf $(LASTNAME)_CV.docx $(LSTANAME)_CV.rtf
 
-md: ref.md ref.tex ref_citeproc.md
+ref_citeproc_edit.md: ref.md ref.bib
 	pandoc ref.md -F pandoc-crossref -F pandoc-citeproc \
 	--bibliography=ref.bib \
 	--csl=my_ref.csl \
@@ -9,31 +11,32 @@ md: ref.md ref.tex ref_citeproc.md
 	-s -o ref.tex; \
 	pandoc ref.tex -o ref_citeproc.md; \
 	rm -f ref_citeproc_edit.md
-	python ref.py 
+	python ref.py $(AUTHOR)
 
-pdf: CV1.md CV2.md
+$(LASTNAME)_CV.pdf: CV1.md CV2.md $(STYLE).tex
 	pandoc -s CV1.md ref_citeproc_edit.md CV2.md -F pandoc-citeproc \
 	--template $(STYLE).tex \
 	--from markdown --to context \
 	--pdf-engine=xelatex \
 	-V papersize=letter \
-	-o Katabuchi_CV.tex; \
-	context Katabuchi_CV.tex
+	-o $(LASTNAME)_CV.tex; \
+	context $(LASTNAME)_CV.tex
 
-html: CV_template.css CV.md
+$(LASTNAME)_CV.html: CV_template.css CV1.md CV2.md
 	pandoc --standalone CV1.md ref_citeproc_edit.md CV2.md \
 	    	-H CV_template.css \
         --from markdown --to html \
-        -o CV.html
+        -o $(LASTNAME)_CV.html
 
-docx: CV.md reference.docx
+$(LASTNAME)_CV.docx: CV1.md CV2.md reference.docx
 	pandoc -s CV1.md ref_citeproc_edit.md CV2.md \
-		--reference-doc=reference.docx -o Katabuchi_CV.docx
+		--reference-doc=reference.docx -o $(LASTNAME)_CV.docx
 
-rtf: CV.md
-	pandoc -s CV1.md ref_citeproc_edit.md CV2.md -o CV.rtf
+$(LASTNAME)_CV.rtf: CV1.md CV2.md
+	pandoc -s CV1.md ref_citeproc_edit.md CV2.md -o $(LASTNAME)_CV.rtf
 
+.PHONY: clean
 clean:
-	rm -f Katabuchi_CV.tuc \
-	Katabuchi_CV.log \
+	rm -f $(LASTANAME)_CV.tuc \
+	$(LASTNAME)_CV.log \
 	cont-en.* 

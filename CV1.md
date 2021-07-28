@@ -2,10 +2,9 @@
 author: Masatoshi Katabuchi
 title: Associate Professor
 department: Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
-address:  Menglun, Mengla, Yunnan, 666303 China 
+address: Menglun, Mengla, Yunnan, 666303 China 
 web: mattocci27.github.io
 mail: katabuchi@xtbg.ac.cn
-discord: mattocci#0084
 ---
 
 ---
@@ -77,5 +76,6 @@ April 2010-March 2012
 :   Grant-in-Aid for Scientific Research for JSPS Research Fellowship (no. 22-7035) 1,400,000 JPY ($14,000)
 
 ## Publications
+
 
 

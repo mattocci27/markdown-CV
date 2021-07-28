@@ -18,7 +18,7 @@
 % # zh = height of [Kanji] #
 % ##########################
 
-\startmode[*mkii]
+startmode[*mkii]
   \enableregime[utf-8]
   \setupcolors[state=start]
 \stopmode
@@ -52,12 +52,12 @@ $endif$
 
 % define font
 
-\usesymbols[fontawesome]
+\usesymbols [fontawesome]
 %\setupsymbolset[fontawesome]
 
 \definefontfamily[myfamily][serif][times new roman]
-%\definefontfamily[myfamily][sans][Optima]
-\definefontfamily[myfamily][sans][Raleway]
+\definefontfamily[myfamily][sans][Optima]
+%\definefontfamily[myfamily][sans][Raleway]
 %\definefontfamily[myfamily][sans][Belleza]
 \definefontfamily[myfamily][mono][Cousine]
 \definefontfamily[myfamily][math][Cousine]
@@ -163,10 +163,10 @@ $endif$
 $if(address)$
   $address$\break
 $endif$
-$if(phone)$\symbol[fontawesome-solid][phone] $phone$$endif$
-$if(mail)$\symbol[fontawesome-solid][envelope-open] \goto{$mail$}[url(mailto:$mail$)]$endif$
-$if(web)$\symbol[fontawesome-solid][globe-americas] \goto{$web$}[url(https://$web$)]$endif$
-$if(discord)$\symbol[fontawesome-brands][discord] $discord$$endif$
+$if(phone)$\symbol[fontawesome][phone] $phone$$endif$
+$if(mail)$\symbol[fontawesome][envelope] \goto{$mail$}[url(mailto:$mail$)]$endif$
+$if(web)$\symbol[fontawesome][globe] \goto{$web$}[url(https://$web$)]$endif$
+$if(discord)$\symbol[fontawesome][discord] $discord$$endif$
 \stopalignment
 
 $body$

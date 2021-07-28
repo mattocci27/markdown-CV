@@ -82,7 +82,6 @@ April 2010-March 2012
 @Sreekar2018
 @Johnson2018
 @Osnas2018
-@Katabuchi2017b
 @Li2017
 @Katabuchi2017
 @Siefert2015

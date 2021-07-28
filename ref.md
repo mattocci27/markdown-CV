@@ -1,3 +1,4 @@
+@Chen2021
 @Swenson2020
 @Sreekar2018
 @Johnson2018
@@ -24,9 +25,10 @@
 @Katabuchi2008
 
 
-# Ue seperate md files
+# Use seperate md files
 
 ```
+
 pandoc ref.md -F pandoc-crossref -F pandoc-citeproc \
 --bibliography=ref.bib \
 --csl=my_ref.csl \
@@ -35,30 +37,28 @@ pandoc ref.md -F pandoc-crossref -F pandoc-citeproc \
 --pdf-engine=xelatex \
 -s -o ref.pdf
 
-pandoc ref.md -F pandoc-crossref -F pandoc-citeproc \
---bibliography=ref.bib \
---csl=my_ref.csl \
---default-image-extension=pdf \
---template=eisvogel2.tex \
---pdf-engine=xelatex \
--s -o ref.tex
+pandoc ref.md \
+  --citeproc \
+  --csl=my_ref.csl \
+	--bibliography=ref.bib \
+	--pdf-engine=xelatex \
+	-s -o ref.tex; \
+	pandoc ref.tex -o ref_citeproc.md; \
+	rm -f ref_citeproc_edit.md
+	python ref.py "Katabuchi, M."
 
-pandoc ref.tex -o ref_citeproc.md
-
-#Rscript ref.r 
-rm -f ref_citeproc_edit.md
-python ref.py 
-
-pandoc -s CV1.md ref_citeproc_edit.md CV2.md -F pandoc-citeproc \
---template CV_template.tex \
---from markdown --to context \
---pdf-engine=xelatex \
---bibliography=ref.bib \
---csl=my_ref.csl \
--V papersize=letter \
--o Katabuchi_CV.tex; \
+pandoc -s CV1.md ref_citeproc_edit.md CV2.md \
+  --citeproc \
+  --template CV_template.tex \
+  --from markdown --to context \
+  --pdf-engine=xelatex \
+  --bibliography=ref.bib \
+  --csl=my_ref.csl \
+  -V papersize=letter \
+  -o Katabuchi_CV_raw.tex; \
+sed -e "s/enumerate/itemize/g" Katabuchi_CV_raw.tex > Katabuchi_CV.tex 
 context Katabuchi_CV.tex
-
+  
 ```
 
 
@@ -68,15 +68,16 @@ context Katabuchi_CV.tex
 
 ```
 
-pandoc CV.md --standalone -F pandoc-citeproc \
---template CV_template.tex \
---from markdown --to context \
---bibliography=ref.bib \
---csl=my_ref.csl \
---pdf-engine=xelatex \
--V papersize=letter \
--o Katabuchi_CV.tex
+pandoc CV.md --standalone\
+  --citeproc \
+  --bibliography=ref.bib \
+  --template CV_template.tex \
+  --from markdown --to context \
+  --pdf-engine=xelatex \
+  -V papersize=letter \
+  -o Katabuchi_CV.tex
 
 ```
+
 
 # Refs

@@ -2,7 +2,6 @@
 
 1. **Katabuchi M,** Kitajima K, S.J. Wright, S.A. Van Bael, J.L.D. Osnas and J.W. Lichstein. Decomposing leaf mass into photosynthetic and structural components explains divergent patterns of trait variation within and among plant species. *bioRxiv* 116855; doi: https://doi.org/10.1101/116855
 
-
 ## Book
 1. Hikosaka K., Sasaki T., Kamiyama C., **Katabuchi M.**, Oikawa S., Shimazaki M., Kimura H. and Nakashizuka T. (2016), Trait-Based Approaches for Understanding Species Niche, Coexistence, and Functional Diversity in Subalpine Moorlands.  Structure and Function of Mountain Ecosystems in Japan.
 
@@ -63,7 +62,11 @@ Reviewer for journals (~ 12 per year):
 
 - Journal of Vegetation Science
 
+- Nature Communications
+
 - Oecologia
+
+- Oikos
 
 - Plant Ecology
 
@@ -80,6 +83,9 @@ Reviewer for journals (~ 12 per year):
 : Dean’s award for excellence, Graduate School of Life Sciences (Master’s Program), Tohoku University
 
 ## Invited Seminars
+
+2021
+: Introduction to visualization using ggplot2, International Institute of Tropical Agriculture, Kenya
 
 2018
 : A quantitive model for divergent drivers of leaf trait variation within and among plant species, Xishuangbanna Tropical Botanical Garden, China
@@ -190,4 +196,8 @@ Michigan State University
 Hickory Corners, MI 49060 USA
 
 <klausme1@msu.edu>
+
+
+
+
 
