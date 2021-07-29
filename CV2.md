@@ -6,6 +6,9 @@
 1. Hikosaka K., Sasaki T., Kamiyama C., **Katabuchi M.**, Oikawa S., Shimazaki M., Kimura H. and Nakashizuka T. (2016), Trait-Based Approaches for Understanding Species Niche, Coexistence, and Functional Diversity in Subalpine Moorlands.  Structure and Function of Mountain Ecosystems in Japan.
 
 ## Software
+2020
+: **ztpln**: Zero-Truncated Poisson Lognormal Distribution, R CRAN package
+
 2015
 : **LeafArea**: Rapid Digital Image Analysis of Leaf Area, R CRAN package
 
@@ -13,7 +16,7 @@
 : **mglmn**: Model Averaging fro Multivariate GLM with Null Models, R CRAN package
 
 ## Teaching Experience
-2019
+2019-
 : How do we measure and study biological diveristy?, Advanced Field course in Ecology and Conservation, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China
 
 2013
@@ -48,7 +51,7 @@ Reviewer for journals (~ 12 per year):
 
 - Forest Ecology and Management
 
-- Frontiers Plant Science
+- Frontiers in Plant Science
 
 - Functional Ecology
 

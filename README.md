@@ -1,15 +1,19 @@
 The Markdown Resume
 ===================
 
-### Instructions
+### Instructions 
+
 ```bash
 git clone https://github.com/mattocci27/markdown_CV
 cd markdown_CV
-vim CV.md   # insert your own resume info
-make
+vim CV1.md   # insert your own resume info
+vim CV2.md   # insert your own resume info
+vim ref.md   # insert your own resume info
+bash render.sh # insert your name
 ```
 
-### Running Dockerized
+### Running Dockerized (not working)
+
 ```bash
 git clone https://github.com/mattocci27/markdown_CV
 cd markdown_CV
@@ -23,15 +27,4 @@ sudo docker-compose up --build
 
  * ConTeXt
  * pandoc
-
-#### Debian
-```bash
-sudo apt install pandoc context
-```
-
-#### Fedora
-```bash
-sudo dnf install pandoc texlive-collection-context
-```
-
-sudo docker run -it --rm -v $(pwd):/home/app ubuntu /bin/bash
+ * Optima font (Mac)
