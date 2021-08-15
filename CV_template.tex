@@ -50,10 +50,14 @@ $endif$
 %\setuppagenumbering[location={header,center}]
 \setupheadertexts[$author$, CV, Page \pagenumber{} of \totalnumberofpages]
 
+\defineitemgroup[enumerate]
 % define font
 
 \usesymbols [fontawesome]
-%\setupsymbolset[fontawesome]
+\usesymbols [academicons]
+\definefontsynonym[academicons][file:academicons.ttf] %Assuming it installed
+\startsymbolset[academicons][font=academicons]
+%\stopsymbolset
 
 \definefontfamily[myfamily][serif][times new roman]
 \definefontfamily[myfamily][sans][Optima]
@@ -167,6 +171,7 @@ $if(phone)$\symbol[fontawesome][phone] $phone$$endif$
 $if(mail)$\symbol[fontawesome][envelope] \goto{$mail$}[url(mailto:$mail$)]$endif$
 $if(web)$\symbol[fontawesome][globe] \goto{$web$}[url(https://$web$)]$endif$
 $if(discord)$\symbol[fontawesome][discord] $discord$$endif$
+$if(orcid)$\symbol[academicons][orcid] \goto{$orcid$}[url(https://orcid.org/$orcid$)]$endif$
 \stopalignment
 
 $body$
