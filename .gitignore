@@ -5,7 +5,7 @@
 Katabuchi_CV.tex
 *.swo
 *.swp
-*.docx
+*_CV.docx
 *.rtf
 cont-en.fmt
 .DS_Store
