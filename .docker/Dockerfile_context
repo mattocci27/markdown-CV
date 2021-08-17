@@ -1,0 +1,21 @@
+FROM minidocks/context
+
+RUN apk update && apk add fontconfig
+
+RUN cd /tmp \
+  &&  wget https://github.com/jpswalsh/academicons/archive/refs/tags/v1.9.1.tar.gz \
+  && tar -xvzf v1.9.1.tar.gz \
+  && rm v1.9.1.tar.gz
+
+RUN cd /tmp \
+  && mkdir /usr/share/fonts/truetype/raleway \
+  && mkdir /usr/share/fonts/truetype/cousine \
+  && wget https://github.com/google/fonts/blob/main/ofl/raleway/Raleway%5Bwght%5D.ttf -O /usr/share/fonts/truetype/raleway/Raleway-Regular.ttf\
+  && wget https://github.com/google/fonts/blob/main/apache/cousine/Cousine-Regular.ttf -O /usr/share/fonts/truetype/cousine/Cousine-Regular.ttf \
+  && fc-cache -fv \
+  && mtxrun --script fonts --reload \
+  && mtxrun --script fonts --list pattern="Raleway*" --all  \
+  && mtxrun --script fonts --list pattern="Cousine*" --all  \
+  && context --reload
+
+RUN ls -la /usr/share/fonts/truetype

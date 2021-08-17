@@ -1,13 +1,28 @@
 version: '3'
 
 services:
-
-  resume-make:
+  pandoc:
     build:
       context: .
-      dockerfile: ./.docker/resume.dockerfile
-    command: make
-    container_name: resume-make
-    image: resume-make
+      dockerfile: ./.docker/Dockerfile
+    command: bash pandoc.sh
+    container_name: pandoc
+    image: pandoc
+    environment:
+      - LOCAL_UID=${LOCAL_UID}
+      - LOCAL_GID=${LOCAL_GID}
+    working_dir: /app
     volumes:
-      - .:/home/app/resume
+      - .:/app
+  context:
+    build:
+      context: .
+      dockerfile: ./.docker/Dockerfile_context
+    container_name: contex
+    image: context
+    command: Katabuchi_CV.tex
+    depends_on:
+      - "pandoc"
+    working_dir: /app
+    volumes:
+      - .:/app

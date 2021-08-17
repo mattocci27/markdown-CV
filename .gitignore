@@ -9,3 +9,4 @@ Katabuchi_CV.tex
 *.rtf
 cont-en.fmt
 .DS_Store
+.env

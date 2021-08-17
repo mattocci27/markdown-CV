@@ -1,30 +1,40 @@
 The Markdown Resume
 ===================
 
-### Instructions 
+## Instruction
 
 ```bash
-git clone https://github.com/mattocci27/markdown_CV
-cd markdown_CV
+git clone https://github.com/mattocci27/markdown-CV
+cd markdown-CV
 vim CV1.md   # insert your own resume info
 vim CV2.md   # insert your own resume info
 vim ref.md   # insert your own resume info
-bash render.sh # insert your name
+vim ref.bib  # insert your own resume info
 ```
 
-### Running Dockerized (not working)
+### Local
+
+Make everything.
 
 ```bash
-git clone https://github.com/mattocci27/markdown_CV
-cd markdown_CV
-vim CV.md   # insert your own resume info
-sudo docker-compose up -d
-
-sudo docker-compose up --build
+make
 ```
 
-### Requirements
+### Running Dockerized
+
+Make everything.
+
+```bash
+bash docker-env.sh
+docker-compose up
+```
+
+## Requirements
 
  * ConTeXt
  * pandoc
  * Optima font (Mac)
+
+## Credits
+
+- Original template: Mark Szepieniec (<https://github.com/mszep/pandoc_resume>)

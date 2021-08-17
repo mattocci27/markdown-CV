@@ -5,5 +5,5 @@
 resume.tex
 *.swo
 *.swp
-*.docx
+*_CV.docx
 *.rtf
