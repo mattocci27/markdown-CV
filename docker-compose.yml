@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: ./.docker/Dockerfile
-    command: bash scripts/pandoc.sh
+    command: bash ./scripts/pandoc.sh
     container_name: pandoc
     image: pandoc
     environment:
@@ -20,9 +20,9 @@ services:
       dockerfile: ./.docker/context.dockerfile
     container_name: contex
     image: context
-    command: outputs/Katabuchi_CV.tex
+    command: Katabuchi_CV.tex
     depends_on:
       - "pandoc"
     working_dir: /app
     volumes:
-      - .:/app
+      - ./outputs:/app
