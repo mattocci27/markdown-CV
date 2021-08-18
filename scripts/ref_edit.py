@@ -6,10 +6,10 @@ from os.path import join, splitext, split
 author = sys.argv[1]
 print(author)
 
-f = open('ref_citeproc.md')
+f = open('outputs/ref_citeproc.md')
 lines = f.readlines()
 f.close()
-outfname = 'ref_citeproc_edit.md'
+outfname = 'outputs/ref_citeproc_edit.md'
 
 
 tmp = [i for i, line in enumerate(lines) if re.search('\[\]{#ref-.*}', line)]

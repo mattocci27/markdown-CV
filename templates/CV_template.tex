@@ -166,8 +166,10 @@ $if(address)$
   $address$\break
 $endif$
 $if(phone)$\symbol[fontawesome][phone] $phone$$endif$
-$if(mail)$\symbol[fontawesome-regular][envelope-open] \goto{$mail$}[url(mailto:$mail$)]$endif$
-$if(web)$\symbol[fontawesome-solid][globe-americas] \goto{$web$}[url(https://$web$)]$endif$
+%$if(mail)$\symbol[fontawesome-regular][envelope-open] \goto{$mail$}[url(mailto:$mail$)]$endif$
+%$if(web)$\symbol[fontawesome-solid][globe-americas] \goto{$web$}[url(https://$web$)]$endif$
+$if(mail)$\symbol[fontawesome][envelope] \goto{$mail$}[url(mailto:$mail$)]$endif$
+$if(web)$\symbol[fontawesome][globe] \goto{$web$}[url(https://$web$)]$endif$
 $if(discord)$\symbol[fontawesome-brands][discord] $discord$$endif$
 $if(orcid)$\symbol[academicons][orcid] \goto{$orcid$}[url(https://orcid.org/$orcid$)]$endif$
 \stopalignment

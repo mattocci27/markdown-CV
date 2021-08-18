@@ -6,10 +6,10 @@ The Markdown Resume
 ```bash
 git clone https://github.com/mattocci27/markdown-CV
 cd markdown-CV
-vim CV1.md   # insert your own resume info
-vim CV2.md   # insert your own resume info
-vim ref.md   # insert your own resume info
-vim ref.bib  # insert your own resume info
+vim sources/CV1.md   # insert your own resume info
+vim sources/CV2.md   # insert your own resume info
+vim sources/ref.md   # insert your own resume info
+vim sources/ref.bib  # insert your own resume info
 ```
 
 ### Local
@@ -25,7 +25,7 @@ make
 Make everything.
 
 ```bash
-bash docker-env.sh
+bash scripts/docker-env.sh
 docker-compose up
 ```
 

@@ -1,42 +1,42 @@
 STYLE = CV_template
 AUTHOR = "Katabuchi, M."
 LASTNAME = Katabuchi
-all: ref_citeproc_edit.md $(LASTNAME)_CV.html $(LASTNAME)_CV.pdf $(LASTNAME)_CV.docx $(LASTNAME)_CV.rtf
+all: outputs/ref_citeproc_edit.md outputs/$(LASTNAME)_CV.html outputs/$(LASTNAME)_CV.pdf outputs/$(LASTNAME)_CV.docx outputs/$(LASTNAME)_CV.rtf
 
-ref_citeproc_edit.md: ref.md ref.bib
-	pandoc ref.md -F pandoc-crossref --citeproc \
-	--bibliography=ref.bib \
-	--csl=my_ref.csl \
+outputs/ref_citeproc_edit.md: sources/ref.md sources/ref.bib
+	pandoc sources/ref.md -F pandoc-crossref --citeproc \
+	--bibliography=sources/ref.bib \
+	--csl=templates/my_ref.csl \
 	--pdf-engine=xelatex \
-	-s -o ref.tex; \
-	pandoc ref.tex -o ref_citeproc.md; \
-	rm -f ref_citeproc_edit.md
-	python ref_edit.py $(AUTHOR)
+	-s -o outputs/ref.tex; \
+	pandoc outputs/ref.tex -o outputs/ref_citeproc.md; \
+	rm -f outputs/ref_citeproc_edit.md
+	python scripts/ref_edit.py $(AUTHOR)
 
-$(LASTNAME)_CV.pdf: CV1.md CV2.md $(STYLE).tex ref_citeproc_edit.md
-	pandoc -s CV1.md ref_citeproc_edit.md CV2.md --citeproc \
-	--template $(STYLE).tex \
+outputs/$(LASTNAME)_CV.pdf: sources/CV1.md sources/CV2.md templates/$(STYLE).tex outputs/ref_citeproc_edit.md
+	pandoc -s sources/CV1.md outputs/ref_citeproc_edit.md sources/CV2.md --citeproc \
+	--template templates/$(STYLE).tex \
 	--from markdown --to context \
 	--pdf-engine=xelatex \
 	-V papersize=letter \
-	-o $(LASTNAME)_CV.tex; \
-	context $(LASTNAME)_CV.tex
+	-o outputs/$(LASTNAME)_CV.tex; \
+	cd outputs; context $(LASTNAME)_CV.tex
 
-$(LASTNAME)_CV.html: CV_template.css CV1.md CV2.md ref_citeproc_edit.md
-	pandoc --standalone CV1.md ref_citeproc_edit.md CV2.md \
-	    	-H CV_template.css \
+outputs/$(LASTNAME)_CV.html: templates/CV_template.css sources/CV1.md sources/CV2.md outputs/ref_citeproc_edit.md
+	pandoc --standalone sources/CV1.md outputs/ref_citeproc_edit.md sources/CV2.md \
+	    	-H templates/CV_template.css \
         --from markdown --to html \
-        -o $(LASTNAME)_CV.html
+        -o outputs/$(LASTNAME)_CV.html
 
-$(LASTNAME)_CV.docx: CV1.md CV2.md ref_citeproc_edit.md
-	pandoc -s CV1.md ref_citeproc_edit.md CV2.md \
-		--reference-doc=reference.docx -o $(LASTNAME)_CV.docx
+outputs/$(LASTNAME)_CV.docx: sources/CV1.md sources/CV2.md outputs/ref_citeproc_edit.md
+	pandoc -s sources/CV1.md outputs/ref_citeproc_edit.md sources/CV2.md \
+		--reference-doc=templates/reference.docx -o outputs/$(LASTNAME)_CV.docx
 
-$(LASTNAME)_CV.rtf: CV1.md CV2.md ref_citeproc_edit.md
-	pandoc -s CV1.md ref_citeproc_edit.md CV2.md -o $(LASTNAME)_CV.rtf
+outputs/$(LASTNAME)_CV.rtf: sources/CV1.md sources/CV2.md outputs/ref_citeproc_edit.md
+	pandoc -s sources/CV1.md outputs/ref_citeproc_edit.md sources/CV2.md -o outputs/$(LASTNAME)_CV.rtf
 
 .PHONY: clean
 clean:
-	rm -f $(LASTNAME)_CV.tuc \
-	$(LASTNAME)_CV.log \
+	rm -f outputs/*.tuc \
+	outputs/*.log \
 	cont-en.*
