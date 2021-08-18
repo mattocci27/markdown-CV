@@ -2,7 +2,7 @@
 
 set -e
 
-STYLE=CV_template
+STYLE=CV_template_docker
 AUTHOR="Katabuchi, M."
 LASTNAME=Katabuchi
 
@@ -15,7 +15,7 @@ pandoc ref.md --citeproc \
 
 pandoc ref.tex -o ref_citeproc.md
 rm -f ref_citeproc_edit.md
-python3 ref.py $AUTHOR
+python3 ref_edit.py $AUTHOR
 
 # CV.tex
 pandoc -s CV1.md ref_citeproc_edit.md CV2.md --citeproc \

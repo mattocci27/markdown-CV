@@ -11,7 +11,7 @@ ref_citeproc_edit.md: ref.md ref.bib
 	-s -o ref.tex; \
 	pandoc ref.tex -o ref_citeproc.md; \
 	rm -f ref_citeproc_edit.md
-	python ref.py $(AUTHOR)
+	python ref_edit.py $(AUTHOR)
 
 $(LASTNAME)_CV.pdf: CV1.md CV2.md $(STYLE).tex ref_citeproc_edit.md
 	pandoc -s CV1.md ref_citeproc_edit.md CV2.md --citeproc \

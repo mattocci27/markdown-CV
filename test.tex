@@ -1,0 +1,57 @@
+\usesymbols [fontawesome]
+
+\setupbodyfont[modern]
+\setupbodyfont[10pt]
+\setupinterlinespace[4ex]
+
+\starttext
+
+\symbol [fontawesome-solid] [globe]
+
+\symbol [fontawesome-solid] [globe-americas]
+
+fs env open
+\symbol [fontawesome-solid] [envelope-open]
+
+fa env open
+\symbol [fontawesome-regular] [envelope-open]
+
+fs env
+\symbol [fontawesome-solid] [envelope]
+
+fa env
+\symbol [fontawesome-regular] [envelope]
+
+fb discord
+\symbol [fontawesome-brands] [discord]
+
+f discord
+\symbol [fontawesome] [discord]
+
+
+
+\startbuffer[line]
+The quick brown fox jumps over the lazy dog 1234567890
+\stopbuffer
+
+\startitemize[none,packed]
+                                \item default: \getbuffer[line]\\
+\switchtobodyfont[modern]  \item lmserif: \getbuffer[line]\\
+\switchtobodyfont[modern]  \item \ss lmsans: \getbuffer[line]\\
+\switchtobodyfont[modern]  \item \tt lmmono: \getbuffer[line]\\
+\switchtobodyfont[adventor]     \item adventor: \getbuffer[line]\\
+\switchtobodyfont[bonum]        \item bonum: \getbuffer[line]\\
+\switchtobodyfont[chorus]       \item chorus: \getbuffer[line]\\
+\switchtobodyfont[cursor]       \item cursor: \getbuffer[line]\\
+\switchtobodyfont[pagella]      \item pagella: \getbuffer[line]\\
+\switchtobodyfont[shola]        \item shola: \getbuffer[line]\\
+\switchtobodyfont[termes]       \item termes: \getbuffer[line]\\
+\switchtobodyfont[dejavu]       \item dejavuserif: \getbuffer[line]\\
+\switchtobodyfont[gentium]      \item gentium: \getbuffer[line]\\
+
+\definedfont[name:cousine*default]      \item cousine: \getbuffer[line]\\
+\definedfont[name:cousine]      \item cousine2: \getbuffer[line]\\
+\stopitemize
+
+
+\stoptext
