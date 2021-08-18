@@ -27,27 +27,6 @@ Make everything.
 ```bash
 bash docker-env.sh
 docker-compose up
-
-docker run -it --rm minidocks/context:current-with-fonts /bin/sh
-
-apk add tree fontconfig
-mkdir /usr/share/fonts/truetype/cousine/
-wget https://github.com/google/fonts/blob/main/apache/cousine/Cousine-Regular.ttf -O /usr/share/fonts/truetype/cousine/Cousine.ttf
-fc-cache -fv
-
-
-mkdir /usr/share/tex/texmf/fonts/truetype/public/cousine/
-
-wget https://github.com/google/fonts/bolb/main/apache/cousine
-
-tree /usr/share/tex/texmf/fonts/truetype
-ls -lh /usr/share/tex/texmf/fonts/truetype/public/Cousine
-ls -lh /usr/share/tex/texmf/fonts/truetype/public/dejavu
-ls -lh /usr/share/fonts
-
-fc-cache -fv
-
-
 ```
 
 

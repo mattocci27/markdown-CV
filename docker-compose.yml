@@ -21,8 +21,6 @@ services:
     container_name: contex
     image: context
     command: Katabuchi_CV.tex
-    #command: test.tex
-    #command: --version
     depends_on:
       - "pandoc"
     working_dir: /app

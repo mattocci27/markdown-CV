@@ -11,19 +11,9 @@ RUN cd /tmp \
 ENV OSFONTDIR=$HOME/.fonts:/usr/share/fonts:/usr/share/tex/texmf/fonts
 
 RUN mkdir -p /usr/share/fonts/truetype/cousine \
-  && mkdir -p /usr/share/fonts/truetype/raleway \
-  && mkdir -p /usr/share/fonts/truetype/belleza \
   && mkdir -p /usr/share/fonts/truetype/Noto-sans \
-  && wget http://fonts.gstatic.com/s/belleza/v4/wchA3BWJlVqvIcSeNZyXew.ttf \
-    -O /usr/share/fonts/truetype/belleza/Belleza-Regular.ttf \
   && wget http://fonts.gstatic.com/s/cousine/v10/GYX4bPXObJNJo63QJEUnLg.ttf \
     -O /usr/share/fonts/truetype/cousine/Cousine-Regular.ttf \
-  && wget http://fonts.gstatic.com/s/raleway/v11/_dCzxpXzIS3sL-gdJWAP8A.ttf \
-    -O /usr/share/fonts/truetype/raleway/Raleway-Regular.ttf \
-  && wget http://fonts.gstatic.com/s/raleway/v11/utU2m1gdZSfuQpArSy5Dbw.ttf \
-    -O /usr/share/fonts/truetype/raleway/Raleway-Italic.ttf \
-  && wget http://fonts.gstatic.com/s/raleway/v11/VGEV9-DrblisWOWLbK-1XPesZW2xOQ-xsNqO47m55DA.ttf \
-    -O /usr/share/fonts/truetype/raleway/Raleway-Bold.ttf \
   && wget http://fonts.gstatic.com/s/notosans/v6/0Ue9FiUJwVhi4NGfHJS5uA.ttf \
     -O /usr/share/fonts/truetype/Noto-sans/NotoSans-Regular.ttf \
   && wget http://fonts.gstatic.com/s/notosans/v6/dLcNKMgJ1H5RVoZFraDz0qCWcynf_cDxXwCLxiixG1c.ttf \
@@ -36,7 +26,6 @@ RUN mkdir -p /usr/share/fonts/truetype/cousine \
 
 RUN mtxrun --generate \
  && mtxrun --script fonts --reload \
- && mtxrun --script fonts --list -pattern="raleway*" --all  \
  && mtxrun --script fonts --list -pattern="cousine*" --all \
  && mtxrun --script fonts --list -pattern="academicons*" --all \
  && mtxrun --script fonts --list -pattern="noto*" --all
