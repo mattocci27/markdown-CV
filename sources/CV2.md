@@ -148,6 +148,15 @@ Reviewer for journals (~ 12 per year):
 ## Languages
 Japanese (native), English (fluent), Malay (basic), Chinese-Mandarin (basic)
 
+## Graduate Students
+
+Nguyen Thi Dueyn, 2021 - Present, M.Sc. Student. Recipient of ANSO Scholarship for International Students.
+
+$~$
+
+Zhou Cong, 2021 - Present, M.Sc. Student, Recipient of UCAS Scholarship.
+
+
 ## References for Masatoshi Katabuchi
 
 Tohru Nakashizuka
@@ -199,8 +208,3 @@ Michigan State University
 Hickory Corners, MI 49060 USA
 
 <klausme1@msu.edu>
-
-
-
-
-
