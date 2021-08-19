@@ -1,14 +1,25 @@
 ^12^ ^34^ ^56^ ^78^ ^910^ ^1112^ ^1314^ ^1516^ ^1718^ ^1920^ ^2122^
-^2324^ ^25^
+^2324^ ^2526^
 
 # Refs {#refs .unnumbered}
 
 ::: {#refs}
 :::
 
-pre[]{#ref-Chen2021}
+pre[]{#ref-Chen2021a}
 
 1\.
+
+Chen, Y.-J., Choat, B., Sterck, F., Maenpuen, P., Katabuchi, M., Zhang,
+S.-B., Tomlinson, K. W., Oliveira, R. S., Zhang, Y.-J., Shen, J.-X.,
+Cao, K.-F. & Jansen, S. Hydraulic prediction of drought-induced plant
+dieback and top-kill depends on leaf habit and growth form. ***Ecology
+Letters*** n/a, (2021),
+doi:[10.1111/ele.13856](https://doi.org/10.1111/ele.13856).
+
+pre[]{#ref-Chen2021}
+
+2\.
 
 Chen, Y.-J., Maenpuen, P., Zhang, Y.-J., Barai, K., Katabuchi, M., Gao,
 H., Kaewkamol, S., Tao, L.-B. & Zhang, J.-L. Quantifying vulnerability
@@ -19,7 +30,7 @@ doi:[10.1111/nph.16927](https://doi.org/10.1111/nph.16927).
 
 pre[]{#ref-Swenson2020}
 
-2\.
+3\.
 
 Swenson, N. G., Hulshof, C. M., Katabuchi, M. & Enquist, B. J. Long-term
 shifts in the functional composition and diversity of a tropical dry
@@ -28,7 +39,7 @@ doi:[10.1002/ecm.1408](https://doi.org/10.1002/ecm.1408).
 
 pre[]{#ref-Sreekar2018}
 
-3\.
+4\.
 
 Sreekar, R., Katabuchi, M., Nakamura, A., Corlett, R. T., Slik, J. W.
 F., Fletcher, C., He, F., Weiblen, G. D., Shen, G., Xu, H., Sun, I.-F.,
@@ -42,7 +53,7 @@ doi:[10.1098/rsos.181168](https://doi.org/10.1098/rsos.181168).
 
 pre[]{#ref-Johnson2018}
 
-4\.
+5\.
 
 Johnson, D. J., Needham, J., Xu, C., Massoud, E. C., Davies, S. J.,
 Anderson-Teixeira, K. J., Bunyavejchewin, S., Chambers, J. Q.,
@@ -59,7 +70,7 @@ doi:[10.1038/s41559-018-0626-z](https://doi.org/10.1038/s41559-018-0626-z).
 
 pre[]{#ref-Osnas2018}
 
-5\.
+6\.
 
 Osnas, J. L. D., Katabuchi, M., Kitajima, K., Wright, S. J., Reich, P.
 B., Van Bael, S. A., Kraft, N. J. B., Samaniego, M. J., Pacala, S. W. &
@@ -70,7 +81,7 @@ doi:[10.1073/pnas.1803989115](https://doi.org/10.1073/pnas.1803989115).
 
 pre[]{#ref-Li2017}
 
-6\.
+7\.
 
 Li, Y., Shipley, B., Price, J. N., Dantas, V. de L., Tamme, R., Westoby,
 M., Siefert, A., Schamp, B. S., Spasojevic, M. J., Jung, V., Laughlin,
@@ -85,7 +96,7 @@ doi:[10.1111/1365-2745.12802](https://doi.org/10.1111/1365-2745.12802).
 
 pre[]{#ref-Katabuchi2017}
 
-7\.
+8\.
 
 Katabuchi, M., Wright, S. J., Swenson, N. G., Feeley, K. J., Condit, R.,
 Hubbell, S. P. & Davies, S. J. Contrasting outcomes of species- and
@@ -95,7 +106,7 @@ doi:[10.1002/ecy.1952](https://doi.org/10.1002/ecy.1952).
 
 pre[]{#ref-Siefert2015}
 
-8\.
+9\.
 
 Siefert, A., Violle, C., Chalmandrier, L., Albert, C. H., Taudiere, A.,
 Fajardo, A., Aarssen, L. W., Baraloto, C., Carlucci, M. B., Cianciaruso,
@@ -113,7 +124,7 @@ doi:[10.1111/ele.12508](https://doi.org/10.1111/ele.12508).
 
 pre[]{#ref-Katabuchi2015}
 
-9\.
+10\.
 
 Katabuchi, M. LeafArea: an R package for rapid digital image analysis of
 leaf area. ***Ecological Research*** 30, 1073--1077 (2015),
@@ -121,7 +132,7 @@ doi:[10.1007/s11284-015-1307-x](https://doi.org/10.1007/s11284-015-1307-x).
 
 pre[]{#ref-Ashton2016}
 
-10\.
+11\.
 
 Ashton, L. A., Nakamura, A., Basset, Y., Burwell, C. J., Cao, M.,
 Eastwood, R., Odell, E., Oliveira, E. G. de, Hurley, K., Katabuchi, M.,
@@ -133,7 +144,7 @@ doi:[10.1111/jbi.12616](https://doi.org/10.1111/jbi.12616).
 
 pre[]{#ref-Nakamura2016}
 
-11\.
+12\.
 
 Nakamura, A., Burwell, C. J., Ashton, L. A., Laidlaw, M. J., Katabuchi,
 M. & Kitching, R. L. Identifying indicator species of elevation:
@@ -143,7 +154,7 @@ doi:[10.1111/aec.12291](https://doi.org/10.1111/aec.12291).
 
 pre[]{#ref-Nakamura2015}
 
-12\.
+13\.
 
 Nakamura, A., Burwell, C. J., Lambkin, C. L., Katabuchi, M., Mcdougall,
 A., Raven, R. J. & Neldner, V. J. The Role of Human Disturbance in
@@ -153,7 +164,7 @@ doi:[10.1111/jbi.12520](https://doi.org/10.1111/jbi.12520).
 
 pre[]{#ref-Deng2015}
 
-13\.
+14\.
 
 Deng, X., Mohandass, D., Katabuchi, M., Hughes, A. C. & Roubik, D. W.
 Impact of Striped-Squirrel Nectar-Robbing Behaviour on Gender Fitness in
@@ -162,7 +173,7 @@ doi:[10.1371/journal.pone.0144585](https://doi.org/10.1371/journal.pone.0144585)
 
 pre[]{#ref-Hikosaka2014}
 
-14\.
+15\.
 
 Hikosaka, K., Sasaki, T., Kamiyama, C., Katabuchi, M., Oikawa, S.,
 Shimazaki, M., Kimura, K. & Nakshizuka, T. Understanding of species
@@ -173,7 +184,7 @@ moorland plant communities \[in Japanese\]. ***Chikyu-Kankyo*** 19,
 
 pre[]{#ref-Kamiyama2014}
 
-15\.
+16\.
 
 Kamiyama, C., Katabuchi, M., Sasaki, T., Shimazaki, M., Nakashizuka, T.
 & Hikosaka, K. Leaf-trait responses to environmental gradients in
@@ -184,7 +195,7 @@ doi:[10.1007/s11284-014-1148-z](https://doi.org/10.1007/s11284-014-1148-z).
 
 pre[]{#ref-Sasaki2014}
 
-16\.
+17\.
 
 Sasaki, T., Katabuchi, M., Kamiyama, C., Shimazaki, M., Nakashizuka, T.
 & Hikosaka, K. Vulnerability of moorland plant communities to
@@ -195,7 +206,7 @@ doi:[10.1111/1365-2664.12192](https://doi.org/10.1111/1365-2664.12192).
 
 pre[]{#ref-Cdiz2013}
 
-17\.
+18\.
 
 Cádiz, A., Nagata, N., Katabuchi, M., Dı́az, L. M., Echenique-Dı́az, L.
 M., Akashi, H. D., Makino, T. & Kawata, M. Relative importance of
@@ -205,7 +216,7 @@ doi:[10.1890/es12-00383.1](https://doi.org/10.1890/es12-00383.1).
 
 pre[]{#ref-Asanok2013}
 
-18\.
+19\.
 
 Asanok, L., Marod, D., Duengkae, P., Pranmongkol, U., Kurokawa, H.,
 Aiba, M., Katabuchi, M. & Nakashizuka, T. Relationships between
@@ -217,7 +228,7 @@ doi:[10.1016/j.foreco.2013.01.029](https://doi.org/10.1016/j.foreco.2013.01.029)
 
 pre[]{#ref-Sasaki2013}
 
-19\.
+20\.
 
 Sasaki, T., Katabuchi, M., Kamiyama, C., Shimazaki, M., Nakashizuka, T.
 & Hikosaka, K. Variations in Species Composition of Moorland Plant
@@ -227,7 +238,7 @@ doi:[10.1007/s13157-013-0380-6](https://doi.org/10.1007/s13157-013-0380-6).
 
 pre[]{#ref-Aiba2013}
 
-20\.
+21\.
 
 Aiba, M., Katabuchi, M., Takafumi, H., Matsuzaki, S. S., Sasaki, T. &
 Hiura, T. Robustness of trait distribution metrics for community
@@ -237,7 +248,7 @@ doi:[10.1890/13-0269.1](https://doi.org/10.1890/13-0269.1).
 
 pre[]{#ref-Sasaki2012b}
 
-21\.
+22\.
 
 Sasaki, T., Katabuchi, M., Kamiyama, C., Shimazaki, M., Nakashizuka, T.
 & Hikosaka, K. Diversity partitioning of moorland plant communities
@@ -247,7 +258,7 @@ doi:[10.1007/s10531-012-0265-7](https://doi.org/10.1007/s10531-012-0265-7).
 
 pre[]{#ref-Sasaki2012}
 
-22\.
+23\.
 
 Sasaki, T., Katabuchi, M., Kamiyama, C., Shimazaki, M., Nakashizuka, T.
 & Hikosaka, K. Nestedness and niche-based species loss in moorland plant
@@ -256,7 +267,7 @@ doi:[10.1111/j.1600-0706.2012.20152.x](https://doi.org/10.1111/j.1600-0706.2012.
 
 pre[]{#ref-Katabuchi2012}
 
-23\.
+24\.
 
 Katabuchi, M., Kurokawa, H., Davies, S. J., Tan, S. & Nakashizuka, T.
 Soil resource availability shapes community trait structure in a
@@ -266,7 +277,7 @@ doi:[10.1111/j.1365-2745.2011.01937.x](https://doi.org/10.1111/j.1365-2745.2011.
 
 pre[]{#ref-Katabuchi2008b}
 
-24\.
+25\.
 
 Katabuchi, M., Isagi, Y. & Nakashizuka, T. Development of 17
 microsatellite markers for *Ceratosolen Constrictus*, the pollinating
@@ -276,7 +287,7 @@ doi:[10.1111/j.1755-0998.2007.02084.x](https://doi.org/10.1111/j.1755-0998.2007.
 
 pre[]{#ref-Katabuchi2008}
 
-25\.
+26\.
 
 Katabuchi, M., Harrison, R. D. & Nakashizuka, T. Documenting the effect
 of foundress number in a dioecious fig, *Ficus Fistulosa*, in Malaysia.
