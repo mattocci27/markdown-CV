@@ -161,13 +161,13 @@ Zhou Cong, 2021 - Present, M.Sc. Student, Recipient of UCAS Scholarship.
 
 Tohru Nakashizuka
 
-Research Institute for Humanity and Nature
+Forest Research and Management Organization
 
-457-4, Motoyama, Kamigamo, Kita-ku, Kyoto, 603-8047 Japan
+1, Matusnosato, Tsukuba, Ibraki, 305-8687 Japan
 
-<toron@chikyu.ac.jp>
+<toron@ffpri.affrc.go.jp>
 
-+81(0)75-707-2341
++81(0)29-829-8159
 
 $~$
 
