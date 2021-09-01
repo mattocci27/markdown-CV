@@ -1,19 +1,21 @@
 ## Manuscript in review/revision/preprint
 
-1. **Katabuchi M,** Kitajima K, S.J. Wright, S.A. Van Bael, J.L.D. Osnas and J.W. Lichstein. Decomposing leaf mass into photosynthetic and structural components explains divergent patterns of trait variation within and among plant species. *bioRxiv* 116855; doi: https://doi.org/10.1101/116855
+1. **Katabuchi M,** Kitajima K, S.J. Wright, S.A. Van Bael, J.L.D. Osnas and J.W. Lichstein.
+Decomposing leaf mass into photosynthetic and structural components explains divergent patterns of
+trait variation within and among plant species. *bioRxiv* 116855; [doi:https://doi.org/10.1101/116855](https://doi.org/10.1101/116855)
 
 ## Book
 1. Hikosaka K., Sasaki T., Kamiyama C., **Katabuchi M.**, Oikawa S., Shimazaki M., Kimura H. and Nakashizuka T. (2016), Trait-Based Approaches for Understanding Species Niche, Coexistence, and Functional Diversity in Subalpine Moorlands.  Structure and Function of Mountain Ecosystems in Japan.
 
 ## Software
 2020
-: **ztpln**: Zero-Truncated Poisson Lognormal Distribution, R CRAN package
+: **ztpln**: Zero-Truncated Poisson Lognormal Distribution, [R CRAN package](https://cran.r-project.org/web/packages/ztpln/index.html)
 
 2015
-: **LeafArea**: Rapid Digital Image Analysis of Leaf Area, R CRAN package
+: **LeafArea**: Rapid Digital Image Analysis of Leaf Area,  [R CRAN package](https://cran.r-project.org/web/packages/LeafArea/index.html)
 
 2015
-: **mglmn**: Model Averaging fro Multivariate GLM with Null Models, R CRAN package
+: **mglmn**: Model Averaging fro Multivariate GLM with Null Models, R CRAN package  [R CRAN package](https://cran.r-project.org/web/packages/mglmn/index.html)
 
 ## Teaching Experience
 2019-
@@ -26,13 +28,16 @@
 : R and generalized linear models, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China
 
 ## Service
-2015-
+2015-2017
+: []()
 : Working Group Member of INNGE, International Network of Next-Generation Ecologists
 
-2015-
+2015-2017
+: []()
 : INNGE manager, The Japan Society of Tropical Ecology
 
 2013-
+: []()
 : Statistical editor for Lepcey, The Journal of Tropical Asian Entomology
 
 Reviewer for journals (~ 12 per year):
