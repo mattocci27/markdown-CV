@@ -6,18 +6,14 @@
 ::: {#refs}
 :::
 
-pre[]{#ref-Chen2021a}
-
 1\.
 
 Chen, Y.-J., Choat, B., Sterck, F., Maenpuen, P., Katabuchi, M., Zhang,
 S.-B., Tomlinson, K. W., Oliveira, R. S., Zhang, Y.-J., Shen, J.-X.,
 Cao, K.-F. & Jansen, S. Hydraulic prediction of drought-induced plant
 dieback and top-kill depends on leaf habit and growth form. ***Ecology
-Letters*** n/a, (2021),
+Letters*** 24, 2350--2363 (2021),
 doi:[10.1111/ele.13856](https://doi.org/10.1111/ele.13856).
-
-pre[]{#ref-Chen2021}
 
 2\.
 
@@ -28,16 +24,12 @@ discrepancies be explained by xylem structural traits? ***New
 Phytologist*** 229, 805--819 (2021),
 doi:[10.1111/nph.16927](https://doi.org/10.1111/nph.16927).
 
-pre[]{#ref-Swenson2020}
-
 3\.
 
 Swenson, N. G., Hulshof, C. M., Katabuchi, M. & Enquist, B. J. Long-term
 shifts in the functional composition and diversity of a tropical dry
 forest: A 30-yr study. ***Ecolgical Monographs*** e01408 (2020),
 doi:[10.1002/ecm.1408](https://doi.org/10.1002/ecm.1408).
-
-pre[]{#ref-Sreekar2018}
 
 4\.
 
@@ -50,8 +42,6 @@ Condit, R., Harrison, R. D. & Koh, L. P. Spatial scale changes the
 relationship between beta diversity, species richness and latitude.
 ***Royal Society Open Science*** 5, 181168 (2018),
 doi:[10.1098/rsos.181168](https://doi.org/10.1098/rsos.181168).
-
-pre[]{#ref-Johnson2018}
 
 5\.
 
@@ -68,8 +58,6 @@ Climate sensitive size-dependent survival in tropical trees. ***Nature
 Ecology & Evolution*** 2, 1436 (2018),
 doi:[10.1038/s41559-018-0626-z](https://doi.org/10.1038/s41559-018-0626-z).
 
-pre[]{#ref-Osnas2018}
-
 6\.
 
 Osnas, J. L. D., Katabuchi, M., Kitajima, K., Wright, S. J., Reich, P.
@@ -78,8 +66,6 @@ Lichstein, J. W. Divergent drivers of leaf trait variation within
 species, among species, and among functional groups. ***Proceedings of
 the National Academy of Sciences*** 115, 5480--5485 (2018),
 doi:[10.1073/pnas.1803989115](https://doi.org/10.1073/pnas.1803989115).
-
-pre[]{#ref-Li2017}
 
 7\.
 
@@ -94,8 +80,6 @@ Occupancy of Plant Communities Worldwide. ***Journl of Ecology*** 3,
 808--809 (2017),
 doi:[10.1111/1365-2745.12802](https://doi.org/10.1111/1365-2745.12802).
 
-pre[]{#ref-Katabuchi2017}
-
 8\.
 
 Katabuchi, M., Wright, S. J., Swenson, N. G., Feeley, K. J., Condit, R.,
@@ -103,8 +87,6 @@ Hubbell, S. P. & Davies, S. J. Contrasting outcomes of species- and
 community-level analyses of the temporal consistency of functional
 composition. ***Ecology*** 98, 2273--2280 (2017),
 doi:[10.1002/ecy.1952](https://doi.org/10.1002/ecy.1952).
-
-pre[]{#ref-Siefert2015}
 
 9\.
 
@@ -122,15 +104,11 @@ relative extent of intraspecific trait variation in plant communities.
 ***Ecology Letters*** 18, 1406--1419 (2015),
 doi:[10.1111/ele.12508](https://doi.org/10.1111/ele.12508).
 
-pre[]{#ref-Katabuchi2015}
-
 10\.
 
 Katabuchi, M. LeafArea: an R package for rapid digital image analysis of
 leaf area. ***Ecological Research*** 30, 1073--1077 (2015),
 doi:[10.1007/s11284-015-1307-x](https://doi.org/10.1007/s11284-015-1307-x).
-
-pre[]{#ref-Ashton2016}
 
 11\.
 
@@ -142,8 +120,6 @@ stratification of moths across elevation and latitude. ***Journal of
 Biogeography*** 43, 59--69 (2016),
 doi:[10.1111/jbi.12616](https://doi.org/10.1111/jbi.12616).
 
-pre[]{#ref-Nakamura2016}
-
 12\.
 
 Nakamura, A., Burwell, C. J., Ashton, L. A., Laidlaw, M. J., Katabuchi,
@@ -151,8 +127,6 @@ M. & Kitching, R. L. Identifying indicator species of elevation:
 Comparing the utility of woody plants, ants and moths for long-term
 monitoring. ***Austral Ecology*** 41, 179--188 (2016),
 doi:[10.1111/aec.12291](https://doi.org/10.1111/aec.12291).
-
-pre[]{#ref-Nakamura2015}
 
 13\.
 
@@ -162,16 +136,12 @@ Island Biogeography of Arthropods and Plants: An Information Theoretic
 Approach. ***Journal of Biogeography*** 42, 1406--1417 (2015),
 doi:[10.1111/jbi.12520](https://doi.org/10.1111/jbi.12520).
 
-pre[]{#ref-Deng2015}
-
 14\.
 
 Deng, X., Mohandass, D., Katabuchi, M., Hughes, A. C. & Roubik, D. W.
 Impact of Striped-Squirrel Nectar-Robbing Behaviour on Gender Fitness in
 Alpinia roxburghii Sweet (Zingiberaceae). ***PLoS ONE*** 10, (2015),
 doi:[10.1371/journal.pone.0144585](https://doi.org/10.1371/journal.pone.0144585).
-
-pre[]{#ref-Hikosaka2014}
 
 15\.
 
@@ -182,8 +152,6 @@ Approaches from community and physiological ecology for subalpine
 moorland plant communities \[in Japanese\]. ***Chikyu-Kankyo*** 19,
 33--46 (2014).
 
-pre[]{#ref-Kamiyama2014}
-
 16\.
 
 Kamiyama, C., Katabuchi, M., Sasaki, T., Shimazaki, M., Nakashizuka, T.
@@ -192,8 +160,6 @@ moorland communities: Contribution of intraspecific variation, species
 replacement and functional group replacement. ***Ecological Research***
 29, 607--617 (2014),
 doi:[10.1007/s11284-014-1148-z](https://doi.org/10.1007/s11284-014-1148-z).
-
-pre[]{#ref-Sasaki2014}
 
 17\.
 
@@ -204,8 +170,6 @@ functional diversity. ***Journal of Applied Ecology*** 51, 299--308
 (2014),
 doi:[10.1111/1365-2664.12192](https://doi.org/10.1111/1365-2664.12192).
 
-pre[]{#ref-Cdiz2013}
-
 18\.
 
 Cádiz, A., Nagata, N., Katabuchi, M., Dı́az, L. M., Echenique-Dı́az, L.
@@ -213,8 +177,6 @@ M., Akashi, H. D., Makino, T. & Kawata, M. Relative importance of
 habitat use, range expansion, and speciation in local species diversity
 of *Anolis* lizards in Cuba. ***Ecosphere*** 4, art78 (2013),
 doi:[10.1890/es12-00383.1](https://doi.org/10.1890/es12-00383.1).
-
-pre[]{#ref-Asanok2013}
 
 19\.
 
@@ -226,8 +188,6 @@ northern Thailand. ***Forest Ecology and Management*** 296, 9--23
 (2013),
 doi:[10.1016/j.foreco.2013.01.029](https://doi.org/10.1016/j.foreco.2013.01.029).
 
-pre[]{#ref-Sasaki2013}
-
 20\.
 
 Sasaki, T., Katabuchi, M., Kamiyama, C., Shimazaki, M., Nakashizuka, T.
@@ -235,8 +195,6 @@ Sasaki, T., Katabuchi, M., Kamiyama, C., Shimazaki, M., Nakashizuka, T.
 Communities Along Environmental Gradients Within a Subalpine Zone in
 Northern Japan. ***Wetlands*** 33, 269--277 (2013),
 doi:[10.1007/s13157-013-0380-6](https://doi.org/10.1007/s13157-013-0380-6).
-
-pre[]{#ref-Aiba2013}
 
 21\.
 
@@ -246,8 +204,6 @@ assembly studies under the uncertainties of assembly processes.
 ***Ecology*** 94, 2873--2885 (2013),
 doi:[10.1890/13-0269.1](https://doi.org/10.1890/13-0269.1).
 
-pre[]{#ref-Sasaki2012b}
-
 22\.
 
 Sasaki, T., Katabuchi, M., Kamiyama, C., Shimazaki, M., Nakashizuka, T.
@@ -256,16 +212,12 @@ across hierarchical spatial scales. ***Biodiversity and Conservation***
 21, 1577--1588 (2012),
 doi:[10.1007/s10531-012-0265-7](https://doi.org/10.1007/s10531-012-0265-7).
 
-pre[]{#ref-Sasaki2012}
-
 23\.
 
 Sasaki, T., Katabuchi, M., Kamiyama, C., Shimazaki, M., Nakashizuka, T.
 & Hikosaka, K. Nestedness and niche-based species loss in moorland plant
 communities. ***Oikos*** 121, 1783--1790 (2012),
 doi:[10.1111/j.1600-0706.2012.20152.x](https://doi.org/10.1111/j.1600-0706.2012.20152.x).
-
-pre[]{#ref-Katabuchi2012}
 
 24\.
 
@@ -275,8 +227,6 @@ species-rich dipterocarp forest. ***Journal of Ecology*** 100, 643--651
 (2012),
 doi:[10.1111/j.1365-2745.2011.01937.x](https://doi.org/10.1111/j.1365-2745.2011.01937.x).
 
-pre[]{#ref-Katabuchi2008b}
-
 25\.
 
 Katabuchi, M., Isagi, Y. & Nakashizuka, T. Development of 17
@@ -284,8 +234,6 @@ microsatellite markers for *Ceratosolen Constrictus*, the pollinating
 fig wasp of *Ficus Fistulosa*. ***Molecular Ecology Resources*** 8,
 840--842 (2008),
 doi:[10.1111/j.1755-0998.2007.02084.x](https://doi.org/10.1111/j.1755-0998.2007.02084.x).
-
-pre[]{#ref-Katabuchi2008}
 
 26\.
 
