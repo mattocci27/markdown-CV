@@ -2,7 +2,7 @@
 author: Masatoshi Katabuchi
 title: Associate Professor
 department: Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
-address: Menglun, Mengla, Yunnan, 666303 China 
+address: Menglun, Mengla, Yunnan, 666303 China
 web: mattocci27.github.io
 mail: katabuchi@xtbg.ac.cn
 orcid: 0000-0001-9900-9029
@@ -61,7 +61,12 @@ April 2010-March 2012
 : []()
 : **JSPS Research Fellow DC2**, Tohoku University, Japan
 
-## Funding
+## Grants & Fellowships
+
+2021:
+:   National Natural Science Foundation of China/RGC (3211101015)
+PIs: Louise Ashton, Akihiro Nakamura.
+Co-Is: Jin Wu, Min Cao, Masatoshi Katabuchi.
 
 2020:
 :   Chinese Academy of Sciences President's International Fellowship Initiative
@@ -75,6 +80,15 @@ April 2010-March 2012
 
 2010
 :   Grant-in-Aid for Scientific Research for JSPS Research Fellowship (no. 22-7035) 1,400,000 JPY ($14,000)
+
+## Collaborator Named on Foreign Grants
+
+2021:
+:  The Japan Society for the Promotion of Science Grant-in-Aid for Scientific Research (21H02248).
+PI: Yoshiko Iida.
+Co-PIs: Wakana Azuma, Mai Kamakura, Takashi Kohyama.
+External Scientific Collaborator: Masatoshi Katabuchi
+
 
 ## Publications
 

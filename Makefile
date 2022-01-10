@@ -3,7 +3,7 @@ AUTHOR = "Katabuchi, M."
 LASTNAME = Katabuchi
 all: outputs/ref_citeproc_edit.md outputs/$(LASTNAME)_CV.html outputs/$(LASTNAME)_CV.pdf outputs/$(LASTNAME)_CV.docx outputs/$(LASTNAME)_CV.rtf
 
-outputs/ref_citeproc_edit.md: sources/ref.md sources/ref.bib
+outputs/ref_citeproc_edit.md: sources/ref.md sources/ref.bib scripts/ref_edit.py
 	pandoc sources/ref.md -F pandoc-crossref --citeproc \
 	--bibliography=sources/ref.bib \
 	--csl=templates/my_ref.csl \
