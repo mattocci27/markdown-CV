@@ -125,6 +125,9 @@ Reviewer for journals (~ 12 per year):
 
 **Submitted**
 
+2019
+: **Masatoshi Katabuchi**, Kaito Umemura, Thomas Koffel, Litchman Elena, Klausmeier A Christopher, "Combining metacommunity and trait-based approaches predicts species abundances distributions in biological communities", 66th ESJ Annual meeting, Kobe, Japan
+
 2015
 : **Masatoshi Katabuchi**, Kaoru Kitajima, Joesph Wright, Jeanne Osnas and Jeremy Lichstein "Decomposing leaf mass into photosynthetic and structural components explains diverge patterns of trait variation within vs. among plant communities", 100th ESA Annual meeting, Baltimore, USA
 
