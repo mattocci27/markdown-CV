@@ -76,7 +76,7 @@ Co-Is: Jin Wu, Min Cao, Masatoshi Katabuchi.
 :   JSPS Postdoctoral Fellowship for Research Abroad (no. 25-504) 10,512,000 JPY ($105,000)
 
 2013:
-:   Chinese Academy of Sciences Fellowships for Young International Scientists (no.2013Y1SB0002) 165,000 RMB ($26,000)
+:   Chinese Academy of Sciences Fellowships for Young International Scientists (no. 2013Y1SB0002) 165,000 RMB ($26,000)
 
 2010
 :   Grant-in-Aid for Scientific Research for JSPS Research Fellowship (no. 22-7035) 1,400,000 JPY ($14,000)

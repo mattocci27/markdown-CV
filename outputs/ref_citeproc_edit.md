@@ -1,4 +1,11 @@
 
+1. Maenpuen, P., **Katabuchi, M.**, Onoda, Y., Zhou, C., Zhang, J.-L. & Chen,
+Y.-J. Sources and consequences of mismatch between leaf disc and
+whole-leaf leaf mass per area (LMA). ***American Journal of Botany***
+109, 1242--1250 (2022),
+[doi:10.1002/ajb2.16038](https://doi.org/10.1002/ajb2.16038).
+
+
 1. Chen, Y.-J., Choat, B., Sterck, F., Maenpuen, P., **Katabuchi, M.**, Zhang,
 S.-B., Tomlinson, K. W., Oliveira, R. S., Zhang, Y.-J., Shen, J.-X.,
 Cao, K.-F. & Jansen, S. Hydraulic prediction of drought-induced plant
@@ -17,7 +24,7 @@ Phytologist*** 229, 805--819 (2021),
 
 1. Swenson, N. G., Hulshof, C. M., **Katabuchi, M.** & Enquist, B. J. Long-term
 shifts in the functional composition and diversity of a tropical dry
-forest: A 30-yr study. ***Ecolgical Monographs*** e01408 (2020),
+forest: A 30-yr study. ***Ecological Monographs*** n/a, e01408 (2020),
 [doi:10.1002/ecm.1408](https://doi.org/10.1002/ecm.1408).
 
 
@@ -28,7 +35,7 @@ N., Ong, P., Yap, S., Gunatilleke, C. V. S., Novotny, V., Brockelman, W.
 Y., Xiang, W., Mi, X., Li, X., Wang, X., Qiao, X., Li, Y., Tan, S.,
 Condit, R., Harrison, R. D. & Koh, L. P. Spatial scale changes the
 relationship between beta diversity, species richness and latitude.
-***Royal Society Open Science*** 5, 181168 (2018),
+***Open Science*** 5, 181168 (2018),
 [doi:10.1098/rsos.181168](https://doi.org/10.1098/rsos.181168).
 
 
@@ -42,7 +49,7 @@ Nasardin, M., Ong, P. S., Ostertag, R., Sack, L., Swenson, N. G., Sun,
 I. F., Tan, S., Thomas, D. W., Thompson, J., Umaña, M. N., Uriarte, M.,
 Valencia, R., Yap, S., Zimmerman, J., McDowell, N. G. & McMahon, S. M.
 Climate sensitive size-dependent survival in tropical trees. ***Nature
-Ecology & Evolution*** 2, 1436 (2018),
+Ecology & Evolution*** 1 (2018),
 [doi:10.1038/s41559-018-0626-z](https://doi.org/10.1038/s41559-018-0626-z).
 
 
@@ -50,7 +57,8 @@ Ecology & Evolution*** 2, 1436 (2018),
 B., Van Bael, S. A., Kraft, N. J. B., Samaniego, M. J., Pacala, S. W. &
 Lichstein, J. W. Divergent drivers of leaf trait variation within
 species, among species, and among functional groups. ***Proceedings of
-the National Academy of Sciences*** 115, 5480--5485 (2018),
+the National Academy of Sciences of the United States of America*** 115,
+5480--5485 (2018),
 [doi:10.1073/pnas.1803989115](https://doi.org/10.1073/pnas.1803989115).
 
 
@@ -60,8 +68,8 @@ D. C., Richardson, S. J., Bagousse-Pinguet, Y. L., Schöb, C., Gazol, A.,
 Prentice, H. C., Gross, N., Overton, J., Cianciaruso, M. V., Louault,
 F., Kamiyama, C., Nakashizuka, T., Hikosaka, K., Sasaki, T., Katabuchi,
 M., Frenette Dussault, C., Gaucherand, S., Chen, N., Vandewalle, M. &
-Batalha, M. A. Habitat Filtering Determines the Functional Niche
-Occupancy of Plant Communities Worldwide. ***Journl of Ecology*** 3,
+Batalha, M. A. Habitat filtering determines the functional niche
+occupancy of plant communities worldwide. ***Journal of Ecology*** 3,
 808--809 (2017),
 [doi:10.1111/1365-2745.12802](https://doi.org/10.1111/1365-2745.12802).
 
@@ -75,11 +83,11 @@ composition. ***Ecology*** 98, 2273--2280 (2017),
 
 1. Siefert, A., Violle, C., Chalmandrier, L., Albert, C. H., Taudiere, A.,
 Fajardo, A., Aarssen, L. W., Baraloto, C., Carlucci, M. B., Cianciaruso,
-M. V., L. Dantas, V. de, Bello, F. de, Duarte, L. D. S., Fonseca, C. R.,
+M. V., de L. Dantas, V., de Bello, F., Duarte, L. D. S., Fonseca, C. R.,
 Freschet, G. T., Gaucherand, S., Gross, N., Hikosaka, K., Jackson, B.,
 Jung, V., Kamiyama, C., **Katabuchi, M.**, Kembel, S. W., Kichenin, E.,
 Kraft, N. J. B., Lagerström, A., Bagousse-Pinguet, Y. L., Li, Y., Mason,
-N., Messier, J., Nakashizuka, T., Overton, J. McC., Peltzer, D. A.,
+N., Messier, J., Nakashizuka, T., Overton, J. M., Peltzer, D. A.,
 Pérez-Ramos, I. M., Pillar, V. D., Prentice, H. C., Richardson, S.,
 Sasaki, T., Schamp, B. S., Schöb, C., Shipley, B., Sundqvist, M., Sykes,
 M. T., Vandewalle, M. & Wardle, D. A. A global meta-analysis of the
@@ -88,15 +96,15 @@ relative extent of intraspecific trait variation in plant communities.
 [doi:10.1111/ele.12508](https://doi.org/10.1111/ele.12508).
 
 
-1. **Katabuchi, M.** LeafArea: an R package for rapid digital image analysis of
+1. **Katabuchi, M.** LeafArea: An R package for rapid digital image analysis of
 leaf area. ***Ecological Research*** 30, 1073--1077 (2015),
 [doi:10.1007/s11284-015-1307-x](https://doi.org/10.1007/s11284-015-1307-x).
 
 
 1. Ashton, L. A., Nakamura, A., Basset, Y., Burwell, C. J., Cao, M.,
-Eastwood, R., Odell, E., Oliveira, E. G. de, Hurley, K., **Katabuchi, M.**,
-Maunsell, S., McBroom, J., Schmidl, J., Sun, Z., Tang, Y., Whitaker, T.,
-Laidlaw, M. J., McDonald, W. J. F. & Kitching, R. L. Vertical
+Eastwood, R., Odell, E., de Oliveira, E. G., Hurley, K., **Katabuchi, M.**,
+Maunsell, S., Mcbroom, J., Schmidl, J., Sun, Z., Tang, Y., Whitaker, T.,
+Laidlaw, M. J., Mcdonald, W. J. F. & Kitching, R. L. Vertical
 stratification of moths across elevation and latitude. ***Journal of
 Biogeography*** 43, 59--69 (2016),
 [doi:10.1111/jbi.12616](https://doi.org/10.1111/jbi.12616).
@@ -110,15 +118,15 @@ monitoring. ***Austral Ecology*** 41, 179--188 (2016),
 
 
 1. Nakamura, A., Burwell, C. J., Lambkin, C. L., **Katabuchi, M.**, Mcdougall,
-A., Raven, R. J. & Neldner, V. J. The Role of Human Disturbance in
-Island Biogeography of Arthropods and Plants: An Information Theoretic
-Approach. ***Journal of Biogeography*** 42, 1406--1417 (2015),
+A., Raven, R. J. & Neldner, V. J. The role of human disturbance in
+island biogeography of arthropods and plants: An information theoretic
+approach. ***Journal of Biogeography*** 42, 1406--1417 (2015),
 [doi:10.1111/jbi.12520](https://doi.org/10.1111/jbi.12520).
 
 
 1. Deng, X., Mohandass, D., **Katabuchi, M.**, Hughes, A. C. & Roubik, D. W.
 Impact of Striped-Squirrel Nectar-Robbing Behaviour on Gender Fitness in
-Alpinia roxburghii Sweet (Zingiberaceae). ***PLoS ONE*** 10, (2015),
+*Alpinia* *Roxburghii* Sweet (Zingiberaceae). ***PLoS ONE*** 10, (2015),
 [doi:10.1371/journal.pone.0144585](https://doi.org/10.1371/journal.pone.0144585).
 
 
@@ -146,11 +154,11 @@ functional diversity. ***Journal of Applied Ecology*** 51, 299--308
 [doi:10.1111/1365-2664.12192](https://doi.org/10.1111/1365-2664.12192).
 
 
-1. Cádiz, A., Nagata, N., **Katabuchi, M.**, Dı́az, L. M., Echenique-Dı́az, L.
+1. Cádiz, A., Nagata, N., **Katabuchi, M.**, DíAZ, L. M., ECHENIQUE-DíAZ, L.
 M., Akashi, H. D., Makino, T. & Kawata, M. Relative importance of
 habitat use, range expansion, and speciation in local species diversity
-of *Anolis* lizards in Cuba. ***Ecosphere*** 4, art78 (2013),
-[doi:10.1890/es12-00383.1](https://doi.org/10.1890/es12-00383.1).
+of anolis lizards in cuba. ***Ecosphere*** 4, (2013),
+[doi:10.1890/ES12-00383.1](https://doi.org/10.1890/ES12-00383.1).
 
 
 1. Asanok, L., Marod, D., Duengkae, P., Pranmongkol, U., Kurokawa, H.,
@@ -163,13 +171,13 @@ northern Thailand. ***Forest Ecology and Management*** 296, 9--23
 
 
 1. Sasaki, T., **Katabuchi, M.**, Kamiyama, C., Shimazaki, M., Nakashizuka, T.
-& Hikosaka, K. Variations in Species Composition of Moorland Plant
-Communities Along Environmental Gradients Within a Subalpine Zone in
-Northern Japan. ***Wetlands*** 33, 269--277 (2013),
+& Hikosaka, K. Variations in species composition of moorland plant
+communities along environmental gradients within a subalpine zone in
+northern japan. ***Wetlands*** 33, 269--277 (2013),
 [doi:10.1007/s13157-013-0380-6](https://doi.org/10.1007/s13157-013-0380-6).
 
 
-1. Aiba, M., **Katabuchi, M.**, Takafumi, H., Matsuzaki, S. S., Sasaki, T. &
+1. Aiba, M., **Katabuchi, M.**, Takafumi, H., Matsuzaki, S. I. S., Sasaki, T. &
 Hiura, T. Robustness of trait distribution metrics for community
 assembly studies under the uncertainties of assembly processes.
 ***Ecology*** 94, 2873--2885 (2013),
@@ -197,13 +205,13 @@ species-rich dipterocarp forest. ***Journal of Ecology*** 100, 643--651
 
 
 1. **Katabuchi, M.**, Isagi, Y. & Nakashizuka, T. Development of 17
-microsatellite markers for *Ceratosolen Constrictus*, the pollinating
-fig wasp of *Ficus Fistulosa*. ***Molecular Ecology Resources*** 8,
+microsatellite markers for *Ceratosolen* *Constrictus*, the pollinating
+fig wasp of *Ficus* *Fistulosa*. ***Molecular Ecology Resources*** 8,
 840--842 (2008),
 [doi:10.1111/j.1755-0998.2007.02084.x](https://doi.org/10.1111/j.1755-0998.2007.02084.x).
 
 
 1. **Katabuchi, M.**, Harrison, R. D. & Nakashizuka, T. Documenting the effect
-of foundress number in a dioecious fig, *Ficus Fistulosa*, in Malaysia.
-***Biotropica*** 40, 457--461 (2008),
+of foundress number in a dioecious fig, *Ficus* *Fistulosa*, in
+Malaysia. ***Biotropica*** 40, 457--461 (2008),
 [doi:10.1111/j.1744-7429.2008.00405.x](https://doi.org/10.1111/j.1744-7429.2008.00405.x).
